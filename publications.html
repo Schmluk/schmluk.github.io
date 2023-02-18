@@ -51,7 +51,7 @@
 			<header class="major">
 				<h1>Publications</h1>
 			</header>
-			<p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and other publications.</p>
+			<p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and other publications. <br>*Indicates I am a shared first author.</p>
 
 			<ul class="actions fit">
 				<li><a href="#journals" class="button fit">Journals</a></li>
@@ -96,7 +96,7 @@
 				<h2>Other</h2>
 			</header>
 
-			<table id="tableOther">
+			<table id="tableOthers">
 				<tbody>
 				</tbody>
 			</table>
@@ -134,6 +134,7 @@
 		<script src="assets/js/breakpoints.min.js"></script>
 		<script src="assets/js/util.js"></script>
 		<script src="assets/js/main.js"></script>
+
 		<!-- Import all jsons of publications and build tables. -->
 		<script src="publications/journals.js"></script>
 		<script src="publications/conferences.js"></script>
@@ -142,9 +143,9 @@
 		<script src="assets/js/build-publication.js"></script>
 		<script type="text/javascript">
 			buildTable(pubJournals, "tableJournals");
-			// buildTable(pubConferences, "tableConferences");
-			// buildTable(pubPreprints, "tablePreprints");
-			// buildTable(pubOther, "tableOther");
+			buildTable(pubConferences, "tableConferences");
+			buildTable(pubPreprints, "tablePreprints");
+			buildTable(pubOthers, "tableOthers");
 		</script>
 
 </body>
