@@ -391,7 +391,7 @@ pre code {
 
 #nav>ul>li {
 	flex: 1;
-	display: inline-block; 
+	display: inline-block;
 	text-align: center;
 	padding-right: 1.5em;
 }
@@ -2269,7 +2269,7 @@ input[type="radio"]+label:before {
 	display: block;
 	height: 100%;
 	left: 0;
-	opacity: 0.5;
+	opacity: 0.3;
 	position: absolute;
 	top: 0;
 	width: 100%;
@@ -2399,8 +2399,27 @@ ul.alt li:first-child {
 	padding-top: 0;
 }
 
+ul.emphasized {
+	list-style: disc;
+	margin: 0 0 2em 0;
+	padding-left: 1em;
+	list-style: none;
+}
+
 dl {
 	margin: 0 0 2em 0;
+}
+
+
+
+ul.emphasized li::before {
+	content: "\2022";
+	/* \2022 unicode for a bullet */
+	color: var(--activecolor);
+	font-weight: bold;
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
 }
 
 /* Icons */
@@ -2409,7 +2428,7 @@ ul.icons {
 	cursor: default;
 	list-style: none;
 	padding-left: 1em;
-	display:inline-block;
+	display: inline-block;
 }
 
 ul.icons li {
@@ -3038,7 +3057,7 @@ input[type="button"]:disabled,
 
 .poptrox-popup .nav-next:before,
 .poptrox-popup .nav-previous:before {
-	color: #fff;
+	color: var(--activecolor);
 	font-size: 2.5em;
 	height: 1em;
 	line-height: 1em;
@@ -3074,7 +3093,7 @@ input[type="button"]:disabled,
 	-ms-transition: opacity 0.2s ease-in-out;
 	transition: opacity 0.2s ease-in-out;
 	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-	color: #fff;
+	color: var(--activecolor);
 	height: 4em;
 	line-height: 4em;
 	opacity: 0;
@@ -3120,20 +3139,20 @@ input[type="button"]:disabled,
 
 .poptrox-popup:hover .nav-next,
 .poptrox-popup:hover .nav-previous {
-	opacity: 0.5;
+	opacity: 0.3;
 }
 
 .poptrox-popup:hover .nav-next:hover,
 .poptrox-popup:hover .nav-previous:hover {
-	opacity: 1.0;
+	opacity: 0.7;
 }
 
 .poptrox-popup:hover .closer {
-	opacity: 0.5;
+	opacity: 0.3;
 }
 
 .poptrox-popup:hover .closer:hover {
-	opacity: 1.0;
+	opacity: 0.7;
 }
 
 /* Touch */
