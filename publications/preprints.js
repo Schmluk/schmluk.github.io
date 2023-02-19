@@ -1,11 +1,11 @@
-var preprintVenues = {"Arxiv" :{
+const preprintVenues = {"Arxiv" :{
     "name": "ArXiv Preprint",
     "link": "https://arxiv.org/",
     "image": "arxiv.png"
 }
 };
 
-var pubPreprints = [{
+const pubPreprints = [{
   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
   "title": "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
   "venue": preprintVenues["Arxiv"],

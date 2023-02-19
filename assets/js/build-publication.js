@@ -11,7 +11,7 @@ function addTableRow(publication, tbody) {
   var text = ""
 
   // Lead image.
-  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.venue.link + "' target='_blank'><img src='images/publications/" + publication.venue.image + "' style='width: 100%' alt=" + publication.venue.title + "'></a></td>";
+  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.venue.link + "' target='_blank' ><img src='images/publications/" + publication.venue.image + "' style='width: 100%' alt=" + publication.venue.title + "'></span></a></td>";
 
   // Authors.
   text += "<td style='width: 75%; vertical-align: top; padding-bottom: 2em; line-height: 1.4em'>";

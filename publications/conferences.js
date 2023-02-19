@@ -1,5 +1,5 @@
 
-var pubConferences = [{
+const pubConferences = [{
   "authors": ["L. Schmid", "J. Delmerico", "J. Schonberger", "J. Nieto", "M. Pollefeys", "R. Siegwart", "C. Cadena"],
   "title": "Panoptic Multi-TSDFs: a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency",
   "venue": {

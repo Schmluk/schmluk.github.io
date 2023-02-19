@@ -1,4 +1,4 @@
-var journalVenues = {
+const journalVenues = {
   "RAL": {
     "name": "IEEE Robotics and Automation Letters (RA-L)",
     "link": "https://www.ieee-ras.org/publications/ra-l",
@@ -11,7 +11,7 @@ var journalVenues = {
   }
 };
 
-var pubJournals = [{
+const pubJournals = [{
   "authors": ["R. Zurbrugg", "H. Blum", "C. Cadena", "R. Siegwart", "L. Schmid"],
   "title": "Embodied Active Domain Adaptation for Semantic Segmentation via Informative Path Planning",
   "venue": journalVenues["RAL"],

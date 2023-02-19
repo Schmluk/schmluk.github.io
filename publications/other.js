@@ -1,4 +1,4 @@
-var pubOthers = [{
+const pubOthers = [{
   "authors": ["L. Schmid"],
   "title": "Robust Active Perception and Volumetric Mapping in Unknown Changing Environments",
   "venue": {
