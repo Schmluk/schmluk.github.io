@@ -31,8 +31,8 @@ const pubCode = {
   },
   "ssc": {
     "link": "https://github.com/ethz-asl/ssc_exploration", 
-    "image": "ssc.gif", "title": "SC Eplorer", 
-    "description": "Incremental fusion of 3D scene completion and multi-layer map integration with the measured data for safe, efficient, and itnerpretable exploration mapping and planning."
+    "image": "ssc.gif", "title": "SC Explorer", 
+    "description": "Incremental fusion of 3D scene completion for efficient exploration mapping and planning. Multi-layer map integration of completions with the measured data for safe, efficient, and interpretable exploration."
   },
    "unrealairsim": {
     "link": "https://github.com/ethz-asl/unreal_airsim", 

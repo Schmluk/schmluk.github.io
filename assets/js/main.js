@@ -69,18 +69,14 @@
 		settings.parallax = false;
 
 	if (settings.parallax) {
-
 		breakpoints.on('<=medium', function () {
-
 			$window.off('scroll.strata_parallax');
 			$header.css('background-position', '');
 
 		});
 
 		breakpoints.on('>medium', function () {
-
 			$header.css('background-position', 'left 0px');
-
 			$window.on('scroll.strata_parallax', function () {
 				$header.css('background-position', 'left ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
 			});
@@ -94,7 +90,6 @@
 	}
 
 	// Lightbox gallery.
-
 	$window.on('load', function () {
 		$('#projects').poptrox({
 			// caption: function ($a) { return $a.next('h3').text(); },
@@ -107,6 +102,8 @@
 			usePopupDefaultStyling: false,
 			usePopupEasyClose: false,
 			usePopupNav: true,
-			windowMargin: (breakpoints.active('<=small') ? 0 : 25)		});	});
+			windowMargin: (breakpoints.active('<=small') ? 0 : 25)
+		});
+	});
 
 })(jQuery);

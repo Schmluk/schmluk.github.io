@@ -368,6 +368,23 @@ pre code {
 }
 
 
+/* Date text highlight */
+
+a.highlight {
+	color: white;
+	background-color: var(--activecolor);
+	border-radius: 0.25em;
+	margin-right: 0.5em;
+	-moz-transition: none;
+	-webkit-transition: none;
+	-ms-transition: none;
+	transition: none;
+}
+a.highlight:hover {
+	color: white !important
+}
+
+
 /* Nav */
 
 #nav {
