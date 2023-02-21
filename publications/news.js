@@ -21,7 +21,7 @@ const pubNews = [{
   "caption": "Great discussions at <a href='https://iros2022.org/'/>IROS 2022</a> about our <a href='https://ieeexplore.ieee.org/document/9807401'/>work</a>!"
 },
 {
-  "title": "I successfully defended my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/506422'/>PhD Thesis</a> on Scene Understanding in Perception and Mapping!",
+  "title": "I successfully defended my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/506422'/>PhD Thesis</a> on Scene Understanding in Active Perception and Mapping!",
   "date": "10/2022",
   "image": "phd.jpg",
   "thumb": "phd_t.jpg",
