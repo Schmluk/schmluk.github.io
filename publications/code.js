@@ -9,6 +9,10 @@ const pubCode = {
     "link": "https://github.com/ethz-asl/neuralblox", 
     "image": "neuralblox.png", "title": "NeuralBlox", 
     "description": "Incremental volumetric mapping for robot planning based on implicit neural representations. We provide our framework for online fusion of neural representations, and code to train extend different models. Main implementation by Stefan Lionar."
+  }, "3dvsg": {
+    "link": "https://github.com/ethz-asl/3d_vsg", 
+    "image": "3d_vsg.png", "title": "3D Variable Scene Graphs (3D VSGs)", 
+    "description": "Long-term semantic scene change prediction using 3D Variable Scene Graphs (3D VSGs). Implementation of our model DeltaVSG, including data, training, inference, and evaluation tools. Main implementation by Samuel Looper."
   },
   "active3d": {
     "link": "https://github.com/ethz-asl/mav_active_3d_planning", 

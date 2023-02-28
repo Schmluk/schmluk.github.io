@@ -2349,12 +2349,15 @@ input[type="radio"]+label:before {
 
 .image.left,
 .image.right {
-	max-width: 40%;
+	width: 40%;
+	/*max-width: 40% */
 }
 
 .image.left img,
 .image.right img {
 	width: 100%;
+	display: "block";
+	height: "auto";
 }
 
 .image.fit {
@@ -2905,7 +2908,7 @@ input[type="button"]:disabled,
 
 #main {
 	margin-left: var(--headerwidth);
-	max-width: 60em;
+	max-width: 80em; /* 60 */
 	padding: 8em 4em 4em 4em;
 	width: calc(100% - var(--headerwidth));
 }
