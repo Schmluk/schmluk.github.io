@@ -228,6 +228,7 @@ a {
 	color:  var(--activecolor); 
 	/* border-bottom-color: var(--activecolor); */
 	text-decoration: none;
+	target: '_blank';
 }
 
 a:hover {

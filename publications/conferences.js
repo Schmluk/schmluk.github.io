@@ -1,5 +1,18 @@
 
 const pubConferences = [{
+  "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
+  "title": "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
+  "venue": {
+    "name": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "link": "https://www.icra2023.org/",
+    "image": "icra23.png"
+  },
+  "year": "2023",
+  "pages": "London, UK, May",
+  "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2209.07896" }, { "name": "Code", "link": "https://github.com/ethz-asl/3d_vsg" }],
+  "sharedfirst": false
+},
+{
   "authors": ["L. Schmid", "J. Delmerico", "J. Schonberger", "J. Nieto", "M. Pollefeys", "R. Siegwart", "C. Cadena"],
   "title": "Panoptic Multi-TSDFs: a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency",
   "venue": {
@@ -23,7 +36,7 @@ const pubConferences = [{
   "year": "2021",
   "pages": "London, United Kingdom, December",
   "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/9665902" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2110.09415" }, { "name": "Code", "link": "https://github.com/ethz-asl/neuralblox" }],
-"sharedfirst": true
+  "sharedfirst": true
 },
 {
   "authors": ["T. Digumarti", "L. Schmid", "G. Rizzi", "J. Nieto", "R. Siegwart", "P. Beardsley", "C. Cadena"],

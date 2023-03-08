@@ -11,7 +11,7 @@ function addTableRow(publication, tbody) {
   var text = ""
 
   // Lead image.
-  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.venue.link + "' target='_blank' ><img src='images/publications/" + publication.venue.image + "' style='width: 100%' alt=" + publication.venue.title + "'></span></a></td>";
+  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.venue.link + "'  ><img src='images/publications/" + publication.venue.image + "' style='width: 100%' alt=" + publication.venue.title + "'></span></a></td>";
 
   // Authors.
   text += "<td style='width: 75%; vertical-align: top; padding-bottom: 2em; line-height: 1.4em'>";
@@ -50,7 +50,7 @@ function addTableRow(publication, tbody) {
 
   // Links.
   for (let i = 0; i < publication.links.length; i++) {
-    text += "[<a href=" + publication.links[i].link + " target='_blank'>" + publication.links[i].name + "</a>]&nbsp;";
+    text += "[<a href=" + publication.links[i].link + " >" + publication.links[i].name + "</a>]&nbsp;";
   }
 
   text += "</div></td>"
