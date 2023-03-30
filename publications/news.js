@@ -6,14 +6,14 @@ const pubNews = [{
   "thumb": "3d_vsg_t.png",
   "caption": "Our paper proposing <a href='https://arxiv.org/abs/2209.07896' />3D Variable Scene Graphs</a> for Long-term Semantic Scene Change Prediction is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://arxiv.org/abs/2209.07896'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]"
 },{
-  "title": "I joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> Lab as a Postdoctoral Fellow!",
+  "title": "I joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> as a Postdoctoral Research Fellow!",
   "date": "2/2023",
   "image": "mit.jpg",
   "thumb": "mit_t.jpg",
   "caption": "I'm excited to share that have joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> as a postdoctoral fellow working with <a href='https://lucacarlone.mit.edu/'>Prof. Luca Carlone</a>!"
 },
 {
-  "title": "I have been awarded a Swiss National Science Foundation Career Grant!",
+  "title": "I have been awarded a <a href='https://www.snf.ch/en'/>Swiss National Science Foundation</a> <a href='https://data.snf.ch/grants/grant/214489'/>Career Grant</a>!",
   "date": "12/2022",
   "image": "snf.png",
   "thumb": "snf.png",
