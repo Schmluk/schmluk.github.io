@@ -5,7 +5,6 @@ const preprintVenues = {
     "image": "arxiv.png"
   }
 };
-
 const pubPreprints = [
   {
     "authors": ["L. Schmid", "O. Andersson", "A. Sulser", "P. Pfreundschuh", "R. Siegwart"],
@@ -13,7 +12,7 @@ const pubPreprints = [
     "venue": preprintVenues["Arxiv"],
     "year": "2023",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2304.10049" }, { "name": "Code", "link": "https://github.com/ethz-asl/dynablox" }],
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2304.10049" }, { "name": "Code", "link": "https://github.com/ethz-asl/dynablox" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=NA13fRWlqRQ" }],
     "sharedfirst": false
   },
   {
