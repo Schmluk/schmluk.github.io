@@ -2,11 +2,11 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
+    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
     "date": "4/2023",
     "image": "../code/dynablox.gif",
     "thumb": "dynablox_t.png",
-    "caption": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]"
+    "caption": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]"
   },
   {
     "title": "My student René Zurbrügg is awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal/outstanding-master-theses.html' />ETH Medal</a> for his outstanding master thesis, Congrats! [<a href='https://ieeexplore.ieee.org/document/9816133'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=FeFPEdZzT3w'/>Video</a>] [<a href='https://github.com/ethz-asl/active_learning_for_segmentation'/>Code</a>]",
