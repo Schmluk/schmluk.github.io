@@ -58,6 +58,7 @@
 			<ul class="actions fit">
 				<li><a href="#journals" class="button fit" target="_self">Journals</a></li>
 				<li><a href="#conferences" class="button fit" target="_self">Conferences</a></li>
+				<li><a href="#Workshops" class="button fit" target="_self">Workshops</a></li>
 				<li><a href="#preprints" class="button fit" target="_self">Preprints</a></li>
 				<li><a href="#other" class="button fit" target="_self">Other</a></li>
 			</ul>
@@ -74,6 +75,14 @@
 		<section id="conferences">
 			<h1>Conferences</h1>
 			<table id="tableConferences">
+				<tbody>
+				</tbody>
+			</table>
+		</section>
+
+		<section id="workshops">
+			<h1>Workshops</h1>
+			<table id="tableWorkshops">
 				<tbody>
 				</tbody>
 			</table>
@@ -135,12 +144,14 @@
 	<!-- Import all jsons of publications and build tables. -->
 	<script src="publications/journals.js"></script>
 	<script src="publications/conferences.js"></script>
+	<script src="publications/workshops.js"></script>
 	<script src="publications/preprints.js"></script>
 	<script src="publications/other.js"></script>
 	<script src="assets/js/build-publication.js"></script>
 	<script type="text/javascript">
 		buildTable(pubJournals, "tableJournals");
 		buildTable(pubConferences, "tableConferences");
+		buildTable(pubWorkshops, "tableWorkshops");
 		buildTable(pubPreprints, "tablePreprints");
 		buildTable(pubOthers, "tableOthers");
 	</script>
