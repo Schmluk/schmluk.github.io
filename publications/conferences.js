@@ -9,7 +9,7 @@ const pubConferences = [{
   },
   "year": "2023",
   "pages": "London, UK, May",
-  "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2209.07896" }, { "name": "Code", "link": "https://github.com/ethz-asl/3d_vsg" }],
+  "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/10161212" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2209.07896" }, { "name": "Code", "link": "https://github.com/ethz-asl/3d_vsg" }],
   "sharedfirst": false
 },
 {
