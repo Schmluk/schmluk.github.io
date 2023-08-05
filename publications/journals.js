@@ -11,7 +11,17 @@ const journalVenues = {
   }
 };
 
-const pubJournals = [{
+const pubJournals = [
+  {
+    "authors": ["L. Schmid", "O. Andersson", "A. Sulser", "P. Pfreundschuh", "R. Siegwart"],
+    "title": "Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments",
+    "venue": journalVenues["RAL"],
+    "year": "2023",
+    "pages": "",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2304.10049" }, { "name": "Code", "link": "https://github.com/ethz-asl/dynablox" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=NA13fRWlqRQ" }],
+    "sharedfirst": false
+  },
+  {
   "authors": ["R. Zurbrugg", "H. Blum", "C. Cadena", "R. Siegwart", "L. Schmid"],
   "title": "Embodied Active Domain Adaptation for Semantic Segmentation via Informative Path Planning",
   "venue": journalVenues["RAL"],
