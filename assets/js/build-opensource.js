@@ -11,5 +11,3 @@ for (let i = 0; i < tables.length; i++) {
     tables[i].innerHTML = text;
   }
 }
-// <!-- Place this tag where you want the button to render. -->
-// <a class="github-button" href="https://github.com/buttons/github-buttons/fork" data-icon="octicon-repo-forked" aria-label="Fork buttons/github-buttons on GitHub">Fork</a>
