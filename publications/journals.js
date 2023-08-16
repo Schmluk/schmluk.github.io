@@ -18,7 +18,7 @@ const pubJournals = [
     "venue": journalVenues["RAL"],
     "year": "2023",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2304.10049" }, { "name": "Code", "link": "https://github.com/ethz-asl/dynablox" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=NA13fRWlqRQ" }],
+    "links": [{ "name": "Journal", "link": "https://ieeexplore.ieee.org/document/10218983" },{ "name": "ArXiv", "link": "https://arxiv.org/abs/2304.10049" }, { "name": "Code", "link": "https://github.com/ethz-asl/dynablox" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=NA13fRWlqRQ" }],
     "sharedfirst": false
   },
   {
