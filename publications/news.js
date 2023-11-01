@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!",
+    "date": "10/2023",
+    "image": "ml_tea.png",
+    "thumb": "ml_tea_t.jpg",
+    "caption": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!"
+  },
+  {
     "title": "We presented our works on 3D-VSGs [<a href='https://arxiv.org/abs/2209.07896' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!",
     "date": "6/2023",
     "image": "icra23.png",
