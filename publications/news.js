@@ -4,7 +4,7 @@ const pubNews = [
   {
     "title": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!",
     "date": "10/2023",
-    "image": "ml_tea.png",
+    "image": "ml_tea.jpg",
     "thumb": "ml_tea_t.jpg",
     "caption": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!"
   },
