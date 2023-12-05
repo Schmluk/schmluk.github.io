@@ -2,6 +2,20 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I'm honored that I will be awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD research</a>!",
+    "date": "12/2023",
+    "image": "eth_medal_phd.jpeg",
+    "thumb": "eth_medal_phd.jpeg",
+    "caption": "I'm honored to be the recipient of the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for the research conducted for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD work</a>! I'm grateful to my advisor Prof Roland Siegwart, Cesar Cadena, and Juan Nieto, as well as everyone at ASL, D-MAVT, and ETH that made this possible through their support!"
+  },
+  {
+    "title": "We've released <a href='https://github.com/MIT-SPARK/config_utilities' />Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]",
+    "date": "11/2023",
+    "image": "config_utilities.png",
+    "thumb": "config_utilities_t.png",
+    "caption": "We've released <a href='https://github.com/MIT-SPARK/config_utilities' />Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]"
+  },
+  {
     "title": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!",
     "date": "10/2023",
     "image": "ml_tea.jpg",

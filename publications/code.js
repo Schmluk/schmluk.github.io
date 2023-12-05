@@ -66,6 +66,12 @@ const pubCode = {
     "image": "unrealcv.png", "title": "Unreal CV ROS",
     "description": "A package to allow ROS based simulation of a MAV equipped with a 3D-reconstruction sensor. The simulation is performed inside an Unreal Engine 4 (UE4) game. The node-game communcation is carried out utilizing the UnrealCV computer vision plugin for UE4."
   },
+  "configutilities_new": {
+    "link": "https://github.com/MIT-SPARK/config_utilities",
+    "short_url": "MIT-SPARK/config_utilities",
+    "image": "config_utilities.png", "title": "Config Utilities",
+    "description": "A completely new and revamped set of utility tools to make working with config structs for C++ libraries more uniform, readable, and convenient."
+  },
   "configutilities": {
     "link": "https://github.com/ethz-asl/config_utilities",
     "short_url": "ethz-asl/config_utilities",
