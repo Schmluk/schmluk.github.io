@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM! [<a href='https://arxiv.org/abs/2402.13817'/>Preprint</a>]",
+    "date": "2/2024",
+    "image": "khronos.png",
+    "thumb": "khronos_t.png",
+    "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Preprint</a>]"
+  },
+  {
     "title": "I'm honored that I will be awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD research</a>!",
     "date": "12/2023",
     "image": "eth_medal_phd.jpeg",
@@ -23,18 +30,18 @@ const pubNews = [
     "caption": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!"
   },
   {
-    "title": "We presented our works on 3D-VSGs [<a href='https://arxiv.org/abs/2209.07896' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!",
+    "title": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!",
     "date": "6/2023",
     "image": "icra23.png",
     "thumb": "icra23_t.jpg",
-    "caption": "We presented our works on 3D-VSGs [<a href='https://arxiv.org/abs/2209.07896' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
+    "caption": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
   },
   {
-    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
+    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
     "date": "4/2023",
     "image": "../code/dynablox.gif",
     "thumb": "dynablox_t.png",
-    "caption": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://arxiv.org/abs/2304.10049'/>Preprint</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]"
+    "caption": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]"
   },
   {
     "title": "My student René Zurbrügg is awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal/outstanding-master-theses.html' />ETH Medal</a> for his outstanding master thesis, Congrats! [<a href='https://ieeexplore.ieee.org/document/9816133'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=FeFPEdZzT3w'/>Video</a>] [<a href='https://github.com/ethz-asl/active_learning_for_segmentation'/>Code</a>]",
@@ -44,11 +51,11 @@ const pubNews = [
     "caption": "My student René Zurbrügg is awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal/outstanding-master-theses.html' />ETH Medal</a>, Congrats!"
   },
   {
-    "title": "Our paper proposing <a href='https://arxiv.org/abs/2209.07896' />3D Variable Scene Graphs</a> is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://arxiv.org/abs/2209.07896'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]",
+    "title": "Our paper proposing <a href='https://ieeexplore.ieee.org/document/10161212' />3D Variable Scene Graphs</a> is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]",
     "date": "3/2023",
     "image": "3d_vsg.png",
     "thumb": "3d_vsg_t.png",
-    "caption": "Our paper proposing <a href='https://arxiv.org/abs/2209.07896' />3D Variable Scene Graphs</a> for Long-term Semantic Scene Change Prediction is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://arxiv.org/abs/2209.07896'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]"
+    "caption": "Our paper proposing <a href='https://ieeexplore.ieee.org/document/10161212' />3D Variable Scene Graphs</a> for Long-term Semantic Scene Change Prediction is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]"
   },
   {
     "title": "I joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> as a Postdoctoral Research Fellow!",
