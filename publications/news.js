@@ -9,18 +9,25 @@ const pubNews = [
     "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Preprint</a>]"
   },
   {
-    "title": "I'm honored that I will be awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD research</a>!",
+    "title": "We've released an <a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>article</a> in <a href='https://www.nationalpostdoc.org/page/POSTDOCket'/>the Postdocket</a> on how to successfully advocate for postdocs! [<a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>Journal</a>]",
+    "date": "2/2024",
+    "image": "npa.png",
+    "thumb": "npa.png",
+    "caption": "We've released an <a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>article</a> in <a href='https://www.nationalpostdoc.org/page/POSTDOCket'/>the Postdocket</a> on how to successfully advocate for postdocs! [<a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>Journal</a>]"
+  },
+  {
+    "title": "I'm honored to be awarded the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD research</a>!",
     "date": "12/2023",
     "image": "eth_medal_phd.jpeg",
     "thumb": "eth_medal_phd.jpeg",
     "caption": "I'm honored to be the recipient of the <a href='https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html'/>ETH Medal for Outstanding PhD Thesis</a> for the research conducted for my <a href='https://www.research-collection.ethz.ch/handle/20.500.11850/583169' />PhD work</a>! I'm grateful to my advisor Prof Roland Siegwart, Cesar Cadena, and Juan Nieto, as well as everyone at ASL, D-MAVT, and ETH that made this possible through their support!"
   },
   {
-    "title": "We've released <a href='https://github.com/MIT-SPARK/config_utilities' />Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]",
+    "title": "We've released <a href='https://github.com/MIT-SPARK/config_utilities'/>Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]",
     "date": "11/2023",
     "image": "config_utilities.png",
     "thumb": "config_utilities_t.png",
-    "caption": "We've released <a href='https://github.com/MIT-SPARK/config_utilities' />Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]"
+    "caption": "We've released <a href='https://github.com/MIT-SPARK/config_utilities'/>Config Utilities</a>, a new C++ library for managing configuration files, as open source! [<a href='https://github.com/MIT-SPARK/config_utilities' />github</a>]"
   },
   {
     "title": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!",
@@ -30,14 +37,14 @@ const pubNews = [
     "caption": "I presented our recent advances on understanding dyanmic scenes in robotics at the MIT Machine Learning Tea-talk series!"
   },
   {
-    "title": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!",
+    "title": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!",
     "date": "6/2023",
     "image": "icra23.png",
     "thumb": "icra23_t.jpg",
-    "caption": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212' />Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
+    "caption": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
   },
   {
-    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox' />Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
+    "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox'/>Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
     "date": "4/2023",
     "image": "../code/dynablox.gif",
     "thumb": "dynablox_t.png",
