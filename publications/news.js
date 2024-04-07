@@ -2,11 +2,11 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    "title": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM! [<a href='https://arxiv.org/abs/2402.13817'/>Preprint</a>]",
+    "title": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM! [<a href='https://arxiv.org/abs/2402.13817'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=YsH6YIL5_kc'/>Video</a>]",
     "date": "2/2024",
     "image": "khronos.png",
     "thumb": "khronos_t.png",
-    "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Preprint</a>]"
+    "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=YsH6YIL5_kc'/>Video</a>]"
   },
   {
     "title": "We've released an <a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>article</a> in <a href='https://www.nationalpostdoc.org/page/POSTDOCket'/>the Postdocket</a> on how to successfully advocate for postdocs! [<a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>Journal</a>]",

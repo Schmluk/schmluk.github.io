@@ -1,5 +1,11 @@
 
 const pubCode = {
+  "khronos": {
+    "link": "https://github.com/MIT-SPARK/Khronos",
+    "short_url": "/MIT-SPARK/Khronos",
+    "image": "khronos.png", "title": "Khronos",
+    "description": "A unified approach for Spatio-temporal Metric-Semantic SLAM (SMS). Khronos reasons about both short-term dynamics (e.g. people moving around the robot) and long-term changes (e.g. items being rearranged) in the environment. It jointly optimizes for motion estimation, change detection, the robot rtrajectory, and dense semantic reconstruction. The resulting spatio-temporal map represents the scene and its evolution at every time step and is icnrementally built during online robot operation."
+  },
   "panopticmapping": {
     "link": "https://github.com/ethz-asl/panoptic_mapping",
     "short_url": "ethz-asl/panoptic_mapping",
