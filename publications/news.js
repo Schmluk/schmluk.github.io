@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I held a <a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>guest lecture</a> for <a href='https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public'/>Mobile Robotics: Methods and Algorithms</a> at the <a href='https://robotics.umich.edu/'/>University of Michigan</a> on Perception of Dynamic Scenes! [<a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>Recording</a>]",
+    "date": "4/2024",
+    "image": "umich24.jpg",
+    "thumb": "umich24_t.jpg",
+    "caption": "I held a <a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>guest lecture</a> for <a href='https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public'/>Mobile Robotics: Methods and Algorithms</a> at the <a href='https://robotics.umich.edu/'/>University of Michigan</a> on Perception of Dynamic Scenes! [<a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>Recording</a>]"
+  },
+  {
     "title": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM! [<a href='https://arxiv.org/abs/2402.13817'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=YsH6YIL5_kc'/>Video</a>]",
     "date": "2/2024",
     "image": "khronos.png",
