@@ -1,5 +1,19 @@
 
-const pubConferences = [{
+const pubConferences = [
+  {
+    "authors": ["L. Schmid", "M. Abate", "Y. Chang", "L. Carlone"],
+    "title": "Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments",
+    "venue": {
+      "name": "Robotics: Science and Systems (RSS)",
+      "link": "https://roboticsconference.org/",
+      "image": "rss24.png"
+    },
+    "year": "2024",
+    "pages": "Delft, The Netherlands, July",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/Khronos"}],
+    "sharedfirst": false
+  },
+  {
   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
   "title": "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
   "venue": {

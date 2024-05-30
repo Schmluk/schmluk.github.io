@@ -7,12 +7,21 @@ const preprintVenues = {
 };
 const pubPreprints = [
   {
-    "authors": ["L. Schmid", "M. Abate", "Y. Chang", "L. Carlone"],
-    "title": "Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments",
+    "authors": ["D. Maggio", "Y. Chang", "N. Hughes", "M. Trang", "D. Griffith", "C. Dougherty", "E. Cristofalo", "L. Schmid", "L. Carlone"],
+    "title": "Clio: Real-time Task-Driven Open-Set 3D Scene Graphs",
     "venue": preprintVenues["Arxiv"],
     "year": "2024",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/Khronos"}],
+    "links": [{ "name": "ArXiv", "link": "http://arxiv.org/abs/2404.13696" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=m-HJO10qhSQ"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/Clio"}],
+    "sharedfirst": false
+  },
+  {
+    "authors": ["N. Gorlo", "L. Schmid", "L. Carlone"],
+    "title": "Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs",
+    "venue": preprintVenues["Arxiv"],
+    "year": "2024",
+    "pages": "",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2405.00552" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=mzumT3T0dYw"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/LP2"}],
     "sharedfirst": false
   },
   {
@@ -21,7 +30,7 @@ const pubPreprints = [
     "venue": preprintVenues["Arxiv"],
     "year": "2022",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2208.08307" }],
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2208.08307" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=DMXdhCqUqts"}, {"name": "Code", "link": "https://github.com/ethz-asl/ssc_exploration"}],
     "sharedfirst": false
   }
 ]

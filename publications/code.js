@@ -1,5 +1,17 @@
 
 const pubCode = {
+  "clio": {
+    "link": "https://github.com/MIT-SPARK/Clio",
+    "short_url": "/MIT-SPARK/Clio",
+    "image": "clio.jpg", "title": "Clio",
+    "description": "A novel approach for building task-driven 3D scene graphs in real-time with embedded open-set semantics. We draw inspiration from the classical Information Bottleneck principle to form task-relevant clusters of object primitives given a set of natural language tasks — such as ''Read brown textbook'' — and by clustering the scene into task-relevant semantic regions such as “Kitchenette” or “Workspace”."
+  },
+  "lhtp": {
+    "link": "https://github.com/MIT-SPARK/LP2",
+    "short_url": "/MIT-SPARK/LP2",
+    "image": "lhtp.gif", "title": "Language-based Probabilistic Long-term Prediction (LP2)",
+    "description": "An approach for long-term (up to 60s) prediction of human trajectories in complex environments, where humans may interact with the scene. We use 3D Dynamic Scene Graphs to represent important concepts in an environment a human might interact with. Large language models (LLM) allow to predict a tree of possible future interactions. We then translate these into a probabilistic spatio-temporal distribution using Continuous-time Markov-chains (CTMC)."
+  },
   "khronos": {
     "link": "https://github.com/MIT-SPARK/Khronos",
     "short_url": "/MIT-SPARK/Khronos",
