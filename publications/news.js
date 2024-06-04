@@ -2,6 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I've been appointed as Associate Editor for the <a href='https://www.ieee-ras.org/publications/ra-l'/>IEEE Robotics and Automation Letters (RA-L)</a>!",
+    "date": "6/2024",
+    "image": "ral_ae.jpg",
+    "thumb": "ral_ae_t.jpg",
+    "caption": "I've been appointed as Associate Editor for the <a href='https://www.ieee-ras.org/publications/ra-l'/>IEEE Robotics and Automation Letters (RA-L)</a>!"
+  },
+  {
+    "title": "We presented <a href='https://github.com/ethz-asl/dynablox'/>Dynablox</a> at <a href='https://2024.ieee-icra.org/'/>ICRA 2024</a>! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",
+    "date": "5/2024",
+    "image": "icra24.jpg",
+    "thumb": "icra24_t.jpg",
+    "caption": "We presented <a href='https://github.com/ethz-asl/dynablox'/>Dynablox</a> at <a href='https://2024.ieee-icra.org/'/>ICRA 2024</a>! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]"
+  },
+  {
+    "title": "We won <a href='https://eval.nothing-stands-still.com/web/challenges/challenge-page/9/leaderboard/18'/> first place</a> in the <a href='https://www.nothing-stands-still.com/'/>2024 'Nothing Stands Still' Hilti SLAM Challenge</a>!",
+    "date": "5/2024",
+    "image": "nss.jpeg",
+    "thumb": "nss_t.jpeg",
+    "caption": "We won <a href='https://eval.nothing-stands-still.com/web/challenges/challenge-page/9/leaderboard/18'/> first place</a> in the <a href='https://www.nothing-stands-still.com/'/>2024 'Nothing Stands Still' Hilti SLAM Challenge</a>! Congratulations to Hyungtae Lim for leading the challenge!"
+  },
+  {
     "title": "I held a <a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>guest lecture</a> for <a href='https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public'/>Mobile Robotics: Methods and Algorithms</a> at the <a href='https://robotics.umich.edu/'/>University of Michigan</a> on Perception of Dynamic Scenes! [<a href='https://www.youtube.com/watch?v=aJ-9PzWERmk'/>Recording</a>]",
     "date": "4/2024",
     "image": "umich24.jpg",
@@ -13,7 +34,7 @@ const pubNews = [
     "date": "2/2024",
     "image": "khronos.png",
     "thumb": "khronos_t.png",
-    "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=YsH6YIL5_kc'/>Video</a>]"
+    "caption": "We announced <a href='https://arxiv.org/abs/2402.13817'/>Khronos</a>, a novel framework for Spatio-temporal Metric-semantic SLAM jointly optimize short-term motion, long-term changes, and spatial global consistency! [<a href='https://arxiv.org/abs/2402.13817'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=YsH6YIL5_kc'/>Video</a>]  [<a href='https://github.com/MIT-SPARK/Khronos'/>Code</a>]"
   },
   {
     "title": "We've released an <a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>article</a> in <a href='https://www.nationalpostdoc.org/page/POSTDOCket'/>the Postdocket</a> on how to successfully advocate for postdocs! [<a href='https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4'/>Journal</a>]",
