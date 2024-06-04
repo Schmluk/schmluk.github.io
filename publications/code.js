@@ -9,7 +9,7 @@ const pubCode = {
   "lhtp": {
     "link": "https://github.com/MIT-SPARK/LP2",
     "short_url": "/MIT-SPARK/LP2",
-    "image": "lhtp.gif", "title": "Language-based Probabilistic Long-term Prediction (LP2)",
+    "image": "lhtp.gif", "title": "Language-based Probabilistic Long-term Prediction (LP<sup>2</sup>)",
     "description": "An approach for long-term (up to 60s) prediction of human trajectories in complex environments, where humans may interact with the scene. We use 3D Dynamic Scene Graphs to represent important concepts in an environment a human might interact with. Large language models (LLM) allow to predict a tree of possible future interactions. We then translate these into a probabilistic spatio-temporal distribution using Continuous-time Markov-chains (CTMC)."
   },
   "khronos": {
