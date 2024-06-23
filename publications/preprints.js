@@ -7,6 +7,15 @@ const preprintVenues = {
 };
 const pubPreprints = [
   {
+    "authors": ["F. Rockenbauer", "J. Lim", "M. Müller", "R. Siegwart", "L. Schmid"],
+    "title": "Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes",
+    "venue": preprintVenues["Arxiv"],
+    "year": "2024",
+    "pages": "",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}],
+    "sharedfirst": false
+  },
+  {
     "authors": ["D. Maggio", "Y. Chang", "N. Hughes", "M. Trang", "D. Griffith", "C. Dougherty", "E. Cristofalo", "L. Schmid", "L. Carlone"],
     "title": "Clio: Real-time Task-Driven Open-Set 3D Scene Graphs",
     "venue": preprintVenues["Arxiv"],

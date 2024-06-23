@@ -2,6 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "We present a novel provably optimal approach to collaborative exploration or navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]",
+    "date": "6/2024",
+    "image": "../code/scouting_ipp.png",
+    "thumb": "scouting_ipp_t.png",
+    "caption": "We present a novel provably optimal approach to collaborative exploration or navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]"
+  },
+  {
+    "title": "We've released <a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Spatial-Hash</a>, a lightweight C++ library for voxel block hashing! [<a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Code</a>]",
+    "date": "6/2024",
+    "image": "spatial_hash.png",
+    "thumb": "spatial_hash.png",
+    "caption": "We've released <a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Spatial-Hash</a>, a lightweight C++ library for voxel block hashing!</a>! [<a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Code</a>]"
+  },
+  {
+    "title": "We have released the <a href='https://www.youtube.com/watch?v=DMXdhCqUqts'/>video</a> and <a href='https://github.com/ethz-asl/ssc_exploration'/>code</a> for our work on <a href='https://arxiv.org/abs/2208.08307'/>SC-Explorer</a>! [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] [<a href='https://www.youtube.com/watch?v=DMXdhCqUqts' />Video</a>] [<a href='https://github.com/ethz-asl/ssc_exploration' />Code</a>]",
+    "date": "6/2024",
+    "image": "ssc_t.png",
+    "thumb": "ssc_t.png",
+    "caption": "We have released the <a href='https://www.youtube.com/watch?v=DMXdhCqUqts'/>video</a> and <a href='https://github.com/ethz-asl/ssc_exploration'/>code</a> for our work on <a href='https://arxiv.org/abs/2208.08307'/>SC-Explorer</a>! [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] [<a href='https://www.youtube.com/watch?v=DMXdhCqUqts' />Video</a>] [<a href='https://github.com/ethz-asl/ssc_exploration' />Code</a>]"
+  },
+  {
     "title": "I've been appointed as Associate Editor for the <a href='https://www.ieee-ras.org/publications/ra-l'/>IEEE Robotics and Automation Letters (RA-L)</a>!",
     "date": "6/2024",
     "image": "ral_ae.jpg",
@@ -69,7 +90,7 @@ const pubNews = [
     "date": "6/2023",
     "image": "icra23.png",
     "thumb": "icra23_t.jpg",
-    "caption": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
+    "caption": "We presented our works on 3D-VSGs [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg' />Code</a>] and SC-Explorer [<a href='https://arxiv.org/abs/2208.08307' />Paper</a>] [<a href='https://www.youtube.com/watch?v=DMXdhCqUqts' />Video</a>] [<a href='https://github.com/ethz-asl/ssc_exploration' />Code</a>] at <a href='https://www.icra2023.org/' />ICRA 2023</a>!"
   },
   {
     "title": "We're excited to announce <a href='https://github.com/ethz-asl/dynablox'/>Dynablox</a>: our new online mapping-based moving object detection framework! [<a href='https://ieeexplore.ieee.org/document/10218983'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=NA13fRWlqRQ'>Video</a>] [<a href='https://github.com/ethz-asl/dynablox'/>Code</a>]",

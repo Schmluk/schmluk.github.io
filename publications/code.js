@@ -1,5 +1,17 @@
 
 const pubCode = {
+  "scouting_ipp": {
+    "link": "https://github.com/ethz-asl/scouting-ipp",
+    "short_url": "/ethz-asl/scouting-ipp",
+    "image": "scouting_ipp.png", "title": "Traversing Mars: Cooperative Scouting IPP",
+    "description": "An informative path planning (IPP) framework to allow a dexterous scout to explore the provably optimal cost path of a follower robot in unknown environments."
+  },
+  "spatial_hash": {
+    "link": "https://github.com/MIT-SPARK/Spatial-Hash",
+    "short_url": "/MIT-SPARK/Spatial-Hash",
+    "image": "../news/spatial_hash.png", "title": "Spatial-Hash",
+    "description": "A lighweight C++ library for spatial data structures based on voxel block hashing."
+  },
   "clio": {
     "link": "https://github.com/MIT-SPARK/Clio",
     "short_url": "/MIT-SPARK/Clio",
@@ -93,7 +105,7 @@ const pubCode = {
   "configutilities": {
     "link": "https://github.com/ethz-asl/config_utilities",
     "short_url": "ethz-asl/config_utilities",
-    "image": "config.jpg", "title": "Config Utilities",
+    "image": "config.jpg", "title": "Config Utilities (legacy)",
     "description": "Utility tools to make working with config structs for ROS (and non-ROS) C++ libraries more uniform, readable, and convenient."
   },
   "pheno": {
