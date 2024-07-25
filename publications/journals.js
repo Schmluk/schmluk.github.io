@@ -5,7 +5,7 @@ const journalVenues = {
     "image": "RAS.jpg"
   },
   "Postdocket": {
-    "name": "The Postdocket, National Postdoctoral Association",
+    "name": "The Postdocket",
     "link": "https://www.nationalpostdoc.org/",
     "image": "npa.png"
   },
@@ -22,7 +22,7 @@ const pubJournals = [
     "title": "What Does It Take to Successfully Advocate for Postdoctoral Scholars?",
     "venue": journalVenues["Postdocket"],
     "year": "2024",
-    "pages": "vol. 22, no. 1",
+    "pages": "National Postdoctoral Association, vol. 22, no. 1",
     "links": [{ "name": "Journal", "link": "https://www.nationalpostdoc.org/page/POSTDOCket_2201#section4" }],
     "sharedfirst": false
   },
@@ -77,7 +77,7 @@ const pubJournals = [
   "venue": journalVenues["PlantMethods"],
   "year": "2019",
   "pages": "vol. 15, no. 1, pp. 1-18",
-  "links": [{ "name": "Journal", "link": "https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0398-8" }, { "name": "Code", "link": "https://github.com/ethz-asl/plant_stress_phenotyping" },],
+  "links": [{ "name": "Journal", "link": "https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0398-8" }, { "name": "Code", "link": "https://github.com/ethz-asl/plant_stress_phenotyping" }],
   "sharedfirst": false
 }
 ]
