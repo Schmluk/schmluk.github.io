@@ -53,6 +53,14 @@ function addTableRow(publication, tbody) {
     text += "[<a href=" + publication.links[i].link + " >" + publication.links[i].name + "</a>]&nbsp;";
   }
 
+  // Awards.
+  let awards = publication.awards;
+  if (awards != undefined && awards.length > 0) {
+    for (let i = 0; i < publication.awards.length; i++) {
+      text += "[<span style='font-weight: bold; color: rgb(255, 180, 0);'>\u{1F3C6}" + publication.awards[i] + "</span>]&nbsp;";
+    }
+  }
+
   text += "</div></td>"
 
   // Add the data to the table.

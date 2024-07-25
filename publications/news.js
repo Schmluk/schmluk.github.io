@@ -2,11 +2,25 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    "title": "We present a novel provably optimal approach to collaborative exploration or navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]",
+    "title": "<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a> won the Outstanding Systems Paper Award at <a href='https://roboticsconference.org'/>Robotics: Science and Systems (RSS)</a>!",
+    "date": "7/2024",
+    "image": "khronos_rss_award.jpg",
+    "thumb": "khronos_rss_award_t.jpg",
+    "caption": "<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a> won the Outstanding Systems Paper Award <a href='https://roboticsconference.org'/>Robotics: Science and Systems (RSS)</a>!"
+  },
+  {
+    "title": "We've presented our works on <a href='https://github.com/MIT-SPARK/Clio'/>Clio</a> and <a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a> at <a href='https://roboticsconference.org'/>Robotics: Science and Systems (RSS)</a>!",
+    "date": "7/2024",
+    "image": "khronos_rss.jpg",
+    "thumb": "khronos_rss.jpg",
+    "caption": "We've presented our works on <a href='https://github.com/MIT-SPARK/Clio'/>Clio</a> and <a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a> at <a href='https://roboticsconference.org'/>Robotics: Science and Systems (RSS)</a>!"
+  },
+  {
+    "title": "We present a novel optimal approach to collaborative exploration for navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]",
     "date": "6/2024",
     "image": "../code/scouting_ipp.png",
     "thumb": "scouting_ipp_t.png",
-    "caption": "We present a novel provably optimal approach to collaborative exploration or navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]"
+    "caption": "We present a novel optimal approach to collaborative exploration for navigation! [<a href='https://arxiv.org/abs/2406.05313'/>Paper</a>] [<a href='https://github.com/ethz-asl/scouting-ipp'/>Code</a>]"
   },
   {
     "title": "We've released <a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Spatial-Hash</a>, a lightweight C++ library for voxel block hashing! [<a href='https://github.com/MIT-SPARK/Spatial-Hash'/>Code</a>]",

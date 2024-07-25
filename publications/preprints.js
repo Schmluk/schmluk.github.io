@@ -4,7 +4,8 @@ const preprintVenues = {
     "link": "https://arxiv.org/",
     "image": "arxiv.png"
   }
-};
+}
+
 const pubPreprints = [
   {
     "authors": ["F. Rockenbauer", "J. Lim", "M. Müller", "R. Siegwart", "L. Schmid"],

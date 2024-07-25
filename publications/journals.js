@@ -14,7 +14,7 @@ const journalVenues = {
     "link": "https://plantmethods.biomedcentral.com/",
     "image": "plant_methods.png"
   }
-};
+}
 
 const pubJournals = [
   {
