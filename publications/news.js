@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "We're organizing a <a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Workshop on Long-term Perception</a> at <a href='https://iros2024-abudhabi.org/'/>IROS 2024</a>! [<a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Homepage</a>] [<a href='https://mit-spark.github.io/Longterm-Perception-WS/#/features/03-call-for-papers'/>CfP</a>]",
+    "date": "8/2024",
+    "image": "iros2024.png",
+    "thumb": "iros2024_t.png",
+    "caption": "We're organizing a <a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Workshop on Long-term Perception</a> at <a href='https://iros2024-abudhabi.org/'/>IROS 2024</a>! [<a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Homepage</a>] [<a href='https://mit-spark.github.io/Longterm-Perception-WS/#/features/03-call-for-papers'/>CfP</a>]"
+  },
+  {
     "title": "<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a> won the Outstanding Systems Paper Award at <a href='https://roboticsconference.org'/>Robotics: Science and Systems (RSS)</a>!",
     "date": "7/2024",
     "image": "khronos_rss_award.jpg",
