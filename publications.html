@@ -9,162 +9,115 @@
 <html>
 
 <head>
-	<title>Lukas Schmid</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1" />
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<base target="_blank">
+  <title>Lukas Schmid</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <base target="_blank">
 </head>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RKGKPT9DC6"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
-
   gtag('config', 'G-RKGKPT9DC6');
 </script>
 
 <body class="is-preload">
+  <header id="header"></header>
+  <nav id="nav"></nav>
 
-	<!-- Header -->
-	<header id="header">
-		<div class="inner">
-			<a href="index.html" class="image avatar" target="_self"><img src="images/avatar.png" alt="" /></a>
-			<h1>
-				<ul class="no-bullets" style="padding-bottom: 2em;">
-					<li><strong>Lukas Schmid</strong>, PhD</li>
-					<li>Postdoctoral Fellow </li>
-					<li>@<a href="https://web.mit.edu/sparklab/">MIT-SPARK Lab</a></li>
-				</ul>
-			</h1>
-		</div>
-	</header>
+  <!-- Main -->
+  <div id="main">
 
-	<!-- Navigation -->
-	<nav id="nav">
-		<ul>
-			<li><a class="icon solid fa-home" href="index.html" target="_self">Homepage</a></li>
-			<li><a class="icon solid fa-user" href="bio.html" target="_self">Biography</a></li>
-			<li><a class="icon solid fa-graduation-cap" href="publications.html" target="_self"> Publications</a></li>
-			<li><a class="icon solid fa-university" href="students.html" target="_self">Teaching</a></li>
-			<li><a class="icon solid fa-code" href="code.html" target="_self">Open Source Code</a></li>
-		</ul>
-	</nav>
+    <!-- Publications -->
+    <section id="publications">
+      <header class="major">
+        <h1>Publications</h1>
+      </header>
+      <p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and
+        other
+        publications. <br>*Indicates I am a second listed shared first author.</p>
 
-	<!-- Main -->
-	<div id="main">
+      <ul class="actions fit">
+        <li><a href="#journals" class="button fit" target="_self">Journals</a></li>
+        <li><a href="#conferences" class="button fit" target="_self">Conferences</a></li>
+        <li><a href="#Workshops" class="button fit" target="_self">Workshops</a></li>
+        <li><a href="#preprints" class="button fit" target="_self">Preprints</a></li>
+        <li><a href="#other" class="button fit" target="_self">Other</a></li>
+      </ul>
+    </section>
 
-		<!-- Publications -->
-		<section id="publications">
-			<header class="major">
-				<h1>Publications</h1>
-			</header>
-			<p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and
-				other
-				publications. <br>*Indicates I am a second listed shared first author.</p>
+    <section id="journals">
+      <h1>Journals</h1>
+      <table id="tableJournals">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
 
-			<ul class="actions fit">
-				<li><a href="#journals" class="button fit" target="_self">Journals</a></li>
-				<li><a href="#conferences" class="button fit" target="_self">Conferences</a></li>
-				<li><a href="#Workshops" class="button fit" target="_self">Workshops</a></li>
-				<li><a href="#preprints" class="button fit" target="_self">Preprints</a></li>
-				<li><a href="#other" class="button fit" target="_self">Other</a></li>
-			</ul>
-		</section>
+    <section id="conferences">
+      <h1>Conferences</h1>
+      <table id="tableConferences">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
 
-		<section id="journals">
-			<h1>Journals</h1>
-			<table id="tableJournals">
-				<tbody>
-				</tbody>
-			</table>
-		</section>
+    <section id="workshops">
+      <h1>Workshops</h1>
+      <table id="tableWorkshops">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
 
-		<section id="conferences">
-			<h1>Conferences</h1>
-			<table id="tableConferences">
-				<tbody>
-				</tbody>
-			</table>
-		</section>
+    <section id="preprints">
+      <h1>Preprints</h1>
+      <table id="tablePreprints">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
 
-		<section id="workshops">
-			<h1>Workshops</h1>
-			<table id="tableWorkshops">
-				<tbody>
-				</tbody>
-			</table>
-		</section>
+    <section id="other">
+      <h1>Other</h1>
+      <table id="tableOthers">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
 
-		<section id="preprints">
-			<h1>Preprints</h1>
-			<table id="tablePreprints">
-				<tbody>
-				</tbody>
-			</table>
-		</section>
+  </div>
 
-		<section id="other">
-			<h1>Other</h1>
-			<table id="tableOthers">
-				<tbody>
-				</tbody>
-			</table>
-		</section>
+  <!-- Footer -->
+  <footer id="footer"></footer>
 
-	</div>
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.poptrox.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
 
-	<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				<li><a href="https://github.com/Schmluk" class="icon brands fa-github"><span
-							class="label">Github</span></a>
-				</li>
-				<li><a href="https://www.linkedin.com/in/lukas-schmid-599872217" class="icon brands fa-linkedin"><span
-							class="label">LinkedIn</span></a></li>
-				<li><a href="https://scholar.google.com/citations?user=kv4Ybd8AAAAJ" class="icon brands fa-google"><span
-							class="label">Google Scholar</span></a></li>
-			</ul>
-			<ul class="icons">
-				<li><a href="https://orcid.org/0000-0002-3961-8145" class="icon brands fa-orcid"><span
-							class="label">ORCID</span></a></li>
-				<li><a href="https://www.researchgate.net/profile/Lukas-Schmid-14"
-						class="icon brands fa-researchgate"><span class="label">Research Gate</span></a></li>
-				<li><a href="mailto:lschmid@mit.edu" class="icon solid fa-envelope"><span class="label">Email</span></a>
-				</li>
-			</ul>
-			<ul class="copyright">
-				<li>&copy; Lukas Schmid</li>
-				<li>Based on Designs by <a href="http://html5up.net">HTML5 UP</a></li>
-			</ul>
-		</div>
-	</footer>
-
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.poptrox.min.js"></script>
-	<script src="assets/js/browser.min.js"></script>
-	<script src="assets/js/breakpoints.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
-	<!-- Import all jsons of publications and build tables. -->
-	<script src="publications/journals.js"></script>
-	<script src="publications/conferences.js"></script>
-	<script src="publications/workshops.js"></script>
-	<script src="publications/preprints.js"></script>
-	<script src="publications/other.js"></script>
-	<script src="assets/js/build-publication.js"></script>
-	<script type="text/javascript">
-		buildTable(pubJournals, "tableJournals");
-		buildTable(pubConferences, "tableConferences");
-		buildTable(pubWorkshops, "tableWorkshops");
-		buildTable(pubPreprints, "tablePreprints");
-		buildTable(pubOthers, "tableOthers");
-	</script>
+  <!-- Import all jsons of publications and build tables. -->
+  <script src="publications/journals.js"></script>
+  <script src="publications/conferences.js"></script>
+  <script src="publications/workshops.js"></script>
+  <script src="publications/preprints.js"></script>
+  <script src="publications/other.js"></script>
+  <script src="assets/js/build-publication.js"></script>
+  <script type="text/javascript">
+    buildTable(pubJournals, "tableJournals");
+    buildTable(pubConferences, "tableConferences");
+    buildTable(pubWorkshops, "tableWorkshops");
+    buildTable(pubPreprints, "tablePreprints");
+    buildTable(pubOthers, "tableOthers");
+  </script>
+  <script src="assets/js/build-header-footer.js"></script>
+  <script src="assets/js/main.js"></script>
 
 </body>
 
