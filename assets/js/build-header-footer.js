@@ -22,7 +22,7 @@ function buildFooter(id) {
         </li>
         <li><a href="https://www.linkedin.com/in/lukas-schmid-599872217"
             class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-        <li><a href="https://scholar.google.com/citations?user=kv4Ybd8AAAAJ"
+        <li><a href="https://scholar.google.com/citations?user=r79fGI0AAAAJ"
             class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
       </ul>
       <ul class="icons">
@@ -44,7 +44,7 @@ function buildNavigation(id) {
   document.getElementById(id).innerHTML = `
     <ul>
       <li><a class="icon solid fa-home" href="index.html" target="_self">Homepage</a></li>
-      <li><a class="icon solid fa-user" href="bio.html" target="_self">Biography</a></li>
+      <li><a class="icon solid fa-user" href="bio.html" target="_self">About Me</a></li>
       <li><a class="icon solid fa-graduation-cap" href="publications.html" target="_self"> Publications</a></li>
       <li><a class="icon solid fa-university" href="students.html" target="_self">Teaching</a></li>
       <li><a class="icon solid fa-code" href="code.html" target="_self">Open Source Code</a></li>

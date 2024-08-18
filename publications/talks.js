@@ -1,5 +1,12 @@
 const pubTalks = [
   {
+    "title": "Towards Active Long-term Perception and Understanding of Dynamic Human Scenes",
+    "venue": "Technical University of Munich (TUM)",
+    "location": "Munich, Germany",
+    "month": 9,
+    "year": 2024
+  },
+  {
     "title": "Active Perception and Long-term Understanding of Dynamic Human Environments",
     "venue": "INRIA de l'Université de Rennes",
     "location": "Rennes, France",

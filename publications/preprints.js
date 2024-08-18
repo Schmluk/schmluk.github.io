@@ -17,15 +17,6 @@ const pubPreprints = [
     "sharedfirst": false
   },
   {
-    "authors": ["D. Maggio", "Y. Chang", "N. Hughes", "M. Trang", "D. Griffith", "C. Dougherty", "E. Cristofalo", "L. Schmid", "L. Carlone"],
-    "title": "Clio: Real-time Task-Driven Open-Set 3D Scene Graphs",
-    "venue": preprintVenues["Arxiv"],
-    "year": "2024",
-    "pages": "",
-    "links": [{ "name": "ArXiv", "link": "http://arxiv.org/abs/2404.13696" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=m-HJO10qhSQ"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/Clio"}],
-    "sharedfirst": false
-  },
-  {
     "authors": ["N. Gorlo", "L. Schmid", "L. Carlone"],
     "title": "Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs",
     "venue": preprintVenues["Arxiv"],
