@@ -2349,8 +2349,8 @@ input[type="radio"]+label:before {
 
 .image.left,
 .image.right {
-	width: 40%;
-	/*max-width: 40% */
+	width: 35%;
+	max-width: 35%
 }
 
 .image.left img,
@@ -2381,6 +2381,22 @@ input[type="radio"]+label:before {
 .image.avatar img {
 	border-radius: 100%;
 	width: 100%;
+}
+
+/* Video */
+video {
+	border-radius: 0.35em;
+	margin: 0 1em 0 0;
+	width: 35%;
+	max-width: 35%;
+	float: left;
+}
+video.left {
+	float: left;
+	text-align: top;
+	margin: 0 1.5em 1em 0;
+	top: 0.25em;
+	border-radius: 0.35em;
 }
 
 /* List */
