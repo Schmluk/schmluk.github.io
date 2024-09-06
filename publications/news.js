@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented our works at the <a href='https://www.tum.de/en/'>TU Munich (TUM)</a> and the <a href='https://www.dlr.de/en'>German Aerospace Center (DLR)</a>!",
+    "date": "9/2024",
+    "image": "tum_t.png",
+    "thumb": "tum_t.png",
+    "caption": "I presented our works at the <a href='https://www.tum.de/en/'>Technical University of Munich (TUM)</a> and the <a href='https://www.dlr.de/en'>German Aerospace Center (DLR)</a>!"
+  },
+  {
     "title": "We're organizing a <a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Workshop on Long-term Perception</a> at <a href='https://iros2024-abudhabi.org/'/>IROS 2024</a>! [<a href='https://mit-spark.github.io/Longterm-Perception-WS'/>Homepage</a>] [<a href='https://mit-spark.github.io/Longterm-Perception-WS/#/features/03-call-for-papers'/>CfP</a>]",
     "date": "8/2024",
     "image": "iros2024.png",

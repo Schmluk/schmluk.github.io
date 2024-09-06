@@ -7,6 +7,13 @@ const pubTalks = [
     "year": 2024
   },
   {
+    "title": "Autonomous Active Perception and Long-term Understanding of Dynamic Scenes",
+    "venue": "German Aerospace Center (DLR)",
+    "location": "Munich, Germany",
+    "month": 9,
+    "year": 2024
+  },
+  {
     "title": "Active Perception and Long-term Understanding of Dynamic Human Environments",
     "venue": "INRIA de l'Université de Rennes",
     "location": "Rennes, France",
