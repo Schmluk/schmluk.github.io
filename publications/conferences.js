@@ -10,7 +10,7 @@ const pubConferences = [
     },
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/Khronos" }],
+    "links": [{"name": "RSS", "link": "https://www.roboticsproceedings.org/rss20/p081.html"}, { "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/Khronos" }],
     "sharedfirst": false,
     "awards": ["Best Paper Award"]
   },

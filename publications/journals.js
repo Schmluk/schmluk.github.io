@@ -23,7 +23,7 @@ const pubJournals = [
     "venue": journalVenues["RAL"],
     "year": "2024",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "http://arxiv.org/abs/2404.13696" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=m-HJO10qhSQ"}, {"name": "Code", "link": "https://github.com/MIT-SPARK/Clio"}]
+    "links": [{ "name": "Journal", "link": "https://ieeexplore.ieee.org/document/10659066" }, { "name": "ArXiv", "link": "http://arxiv.org/abs/2404.13696" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=m-HJO10qhSQ" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/Clio" }]
   },
   {
     "authors": ["A. Ahmad", "I. Arora", "S. Cataldi", "J. Cottet", "E. El Khoury", "B. Gnangnon", "T. Kinder", "R. Lafer-Sousa", "M. Levinstein", "L. Majure", "L. Nguyen", "L. Schmid", "M. Smith", "E. Ventriglia", "S. Wang"],
