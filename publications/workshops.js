@@ -16,6 +16,6 @@ const pubWorkshops = [
     "thumblink": "https://github.com/DLR-RM/oaisys",
     "year": "2022",
     "pages": "Philadelphia(PA), USA, May",
-    "links": [{ "name": "Paper", "link": "https://elib.dlr.de/188049/" }, { "name": "Code", "link": "https://github.com/DLR-RM/oaisys" }],
+    "links": [{ "name": "Paper", "link": "https://elib.dlr.de/188049/" }, { "name": "Code", "link": "https://github.com/DLR-RM/oaisys" }]
   }
 ]

@@ -13,7 +13,7 @@ const pubJournals = [
     "thumblink": "https://github.com/MIT-SPARK/LP2",
     "year": "2024",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2405.00552" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=mzumT3T0dYw" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/LP2" }],
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2405.00552" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=mzumT3T0dYw" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/LP2" }]
   },
   {
     "authors": ["D. Maggio", "Y. Chang", "N. Hughes", "M. Trang", "D. Griffith", "C. Dougherty", "E. Cristofalo", "L. Schmid", "L. Carlone"],

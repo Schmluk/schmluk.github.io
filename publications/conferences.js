@@ -25,7 +25,7 @@ const pubConferences = [
     "thumblink": "https://github.com/ethz-asl/3d_vsg",
     "year": "2023",
     "pages": "London, UK, May",
-    "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/10161212" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2209.07896" }, { "name": "Code", "link": "https://github.com/ethz-asl/3d_vsg" }],
+    "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/10161212" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2209.07896" }, { "name": "Code", "link": "https://github.com/ethz-asl/3d_vsg" }]
   },
   {
     "authors": ["L. Schmid", "J. Delmerico", "J. Schonberger", "J. Nieto", "M. Pollefeys", "R. Siegwart", "C. Cadena"],
@@ -35,7 +35,7 @@ const pubConferences = [
     "thumblink": "https://github.com/ethz-asl/3d_vsg",
     "year": "2022",
     "pages": "Philadelphia (PA), USA, May",
-    "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/9811877" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2109.10165" }, { "name": "Code", "link": "https://github.com/ethz-asl/panoptic_mapping" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=A7o2Vy7_TV4" }],
+    "links": [{ "name": "IEEE", "link": "https://ieeexplore.ieee.org/document/9811877" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2109.10165" }, { "name": "Code", "link": "https://github.com/ethz-asl/panoptic_mapping" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=A7o2Vy7_TV4" }]
   },
   {
     "authors": ["S. Lionar", "L. Schmid", "C. Cadena", "R. Siegwart", "A. Cramariuc"],

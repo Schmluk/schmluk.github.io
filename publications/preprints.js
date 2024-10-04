@@ -11,7 +11,7 @@ const pubPreprints = [
     "thumblink": "https://github.com/ethz-asl/scouting-ipp",
     "year": "2024",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}],
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}]
   },
   {
     "authors": ["L. Schmid", "M. N. Cheema", "V. Reijgwart", "R. Siegwart", "F. Tombari", "C. Cadena"],
@@ -21,6 +21,6 @@ const pubPreprints = [
     "thumblink": "https://github.com/ethz-asl/ssc_exploration",
     "year": "2022",
     "pages": "",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2208.08307" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=DMXdhCqUqts"}, {"name": "Code", "link": "https://github.com/ethz-asl/ssc_exploration"}],
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2208.08307" }, {"name": "Video", "link": "https://www.youtube.com/watch?v=DMXdhCqUqts"}, {"name": "Code", "link": "https://github.com/ethz-asl/ssc_exploration"}]
   }
 ]
