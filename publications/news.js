@@ -2,6 +2,20 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented our vision on spatio-temporal perception at <a href='https://icra40.ieee.org/'>ICRA@40</a>! [<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a>] [<a href='https://github.com/MIT-SPARK/LP2'/>LP<sup>2</sup></a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>3D VSG</a>]",
+    "date": "9/2024",
+    "image": "icra40.jpg",
+    "thumb": "icra40.jpg",
+    "caption": "I presented our vision on spatio-temporal perception at <a href='https://icra40.ieee.org/'>ICRA@40</a>! [<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a>] [<a href='https://github.com/MIT-SPARK/LP2'/>LP<sup>2</sup></a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>3D VSG</a>]"
+  },
+  {
+    "title": "I'm an Associate Editor for <a href='https://2025.ieee-icra.org/'>IEEE ICRA 2025</a> in Atlanta!",
+    "date": "9/2024",
+    "image": "icra2025.jpg",
+    "thumb": "icra2025.jpg",
+    "caption": "I'm an Associate Editor for' <a href='https://2025.ieee-icra.org/'>IEEE ICRA 2025</a> in Atlanta!"
+  },
+  {
     "title": "I presented our works at the <a href='https://www.tum.de/en/'>TU Munich (TUM)</a> and the <a href='https://www.dlr.de/en'>German Aerospace Center (DLR)</a>!",
     "date": "9/2024",
     "image": "tum_t.png",

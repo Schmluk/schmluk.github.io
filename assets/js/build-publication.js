@@ -11,7 +11,7 @@ function addTableRow(publication, tbody) {
   var text = ""
 
   // Lead image.
-  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.venue.link + "'  ><img src='images/publications/" + publication.venue.image + "' style='width: 100%' alt=" + publication.venue.title + "'></span></a></td>";
+  text += "<td style='width: 25%; padding-right: 2em; padding-bottom: 2em'><a href='" + publication.thumblink + "'  ><img src='images/publications/" + publication.thumbimage + "' style='width: 100%' alt=" + publication.title + "'></span></a></td>";
 
   // Authors.
   text += "<td style='width: 75%; vertical-align: top; padding-bottom: 2em; line-height: 1.4em'>";
@@ -42,15 +42,17 @@ function addTableRow(publication, tbody) {
   }
 
   // Title and reference.
-  text += "<br><span style='font-weight: bold; color: rgb(80, 100, 200);'>" + publication.title + "</span><br>" + publication.venue.name + ", ";
+  text += "<br><span style='font-weight: bold; color: rgb(80, 100, 200);'>" + publication.title + "</span><br>" + publication.venue + ", ";
   if (publication.pages != "") {
     text += publication.pages + ", ";
   }
   text += publication.year + ".<br>";
 
   // Links.
-  for (let i = 0; i < publication.links.length; i++) {
-    text += "[<a href=" + publication.links[i].link + " >" + publication.links[i].name + "</a>]&nbsp;";
+  if (publication.links != undefined && publication.links.length > 0) {
+    for (let i = 0; i < publication.links.length; i++) {
+      text += "[<a href=" + publication.links[i].link + " >" + publication.links[i].name + "</a>]&nbsp;";
+    }
   }
 
   // Awards.
