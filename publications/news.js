@@ -2,6 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented our work at the Mila Robot Learning Seminar! [<a href='https://www.youtube.com/watch?v=1DYJTbkD29I'/>Recording</a>]",
+    "date": "10/2024",
+    "image": "mila_t.jpg",
+    "thumb": "mila_t.jpg",
+    "caption": "I presented our work at the Mila Robot Learning Seminar! [<a href='https://www.youtube.com/watch?v=1DYJTbkD29I'/>Recording</a>]"
+  },
+  {
+    "title": "<a href='https://github.com/MIT-SPARK/LP2'/>LP<sup>2</sup></a>, our framework for long-term human motion prediction, is accepted to RA-L and the code is released! [<a href='https://ieeexplore.ieee.org/document/10720207'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=mzumT3T0dYw'/>Video</a>] [<a href='https://github.com/MIT-SPARK/LP2'/>Code</a>]",
+    "date": "10/2024",
+    "image": "lp2_t.jpg",
+    "thumb": "lp2_t.jpg",
+    "caption": "<a href='https://github.com/MIT-SPARK/LP2'/>LP<sup>2</sup></a>, our framework for long-term human motion prediction, is accepted to RA-L and the code is released! [<a href='https://ieeexplore.ieee.org/document/10720207'/>Paper</a>] [<a href='https://www.youtube.com/watch?v=mzumT3T0dYw'/>Video</a>] [<a href='https://github.com/MIT-SPARK/LP2'/>Code</a>]"
+  },
+  {
+    "title": "Our successful <a href='https://mit-spark.github.io/Longterm-Perception-WS/#/'>workshop at IROS 2024</a> was featured by IEEE RAS! [<a href='https://mit-spark.github.io/Longterm-Perception-WS/#/'/>Workshop</a>] [<a href='https://www.linkedin.com/feed/update/urn:li:activity:7251733080002936835/'/>Article</a>]",
+    "date": "10/2024",
+    "image": "workshop_iros24_t.jpg",
+    "thumb": "workshop_iros24_t.jpg",
+    "caption": "Our <a href='https://mit-spark.github.io/Longterm-Perception-WS/#/'>workshop at IROS 2024</a> was featured by IEEE RAS! [<a href='https://mit-spark.github.io/Longterm-Perception-WS/#/'/>Workshop</a>] [<a href='https://www.linkedin.com/feed/update/urn:li:activity:7251733080002936835/'/>Article</a>]"
+  },
+  {
     "title": "I presented our vision on spatio-temporal perception at <a href='https://icra40.ieee.org/'>ICRA@40</a>! [<a href='https://github.com/MIT-SPARK/Khronos'/>Khronos</a>] [<a href='https://github.com/MIT-SPARK/LP2'/>LP<sup>2</sup></a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>3D VSG</a>]",
     "date": "9/2024",
     "image": "icra40.jpg",
