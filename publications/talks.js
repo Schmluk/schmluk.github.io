@@ -7,7 +7,7 @@ const pubTalks = [
     "month": 10,
     "year": 2024,
     "type": "Seminar",
-    "link": "https://www.youtube.com/watch?v=aJ-9PzWERmk",
+    "link": "https://www.youtube.com/watch?v=1DYJTbkD29I",
     "virtual": "true"
   },
   {
