@@ -1,5 +1,4 @@
 const pubTalks = [
-
   {
     "title": "Active Perception and Long-term Understanding of Dynamic Human-Centric Scenes",
     "venue": "Robot Learning Seminar",

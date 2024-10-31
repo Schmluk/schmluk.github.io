@@ -12,7 +12,7 @@ const pubJournals = [
     "thumbimage": "LP2.jpg",
     "thumblink": "https://github.com/MIT-SPARK/LP2",
     "year": "2024",
-    "pages": "early access",
+    "pages": "vol. 9, no. 12, pp. 10978 - 10985",
     "links": [{ "name": "Journal", "link": "https://ieeexplore.ieee.org/document/10720207" },{ "name": "ArXiv", "link": "https://arxiv.org/abs/2405.00552" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=mzumT3T0dYw" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/LP2" }]
   },
   {
