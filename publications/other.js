@@ -6,7 +6,8 @@ const pubOthers = [{
   "thumblink": "https://www.research-collection.ethz.ch/handle/20.500.11850/583169",
   "year": "2022",
   "pages": "",
-  "links": [{ "name": "ETH", "link": "https://www.research-collection.ethz.ch/handle/20.500.11850/583169" }]
+  "links": [{ "name": "ETH", "link": "https://www.research-collection.ethz.ch/handle/20.500.11850/583169" }],
+  "awards": ["ETH Medal for Outstanding PhD Thesis"]
 },
 {
   "authors": ["L. Schmid"],
@@ -16,5 +17,6 @@ const pubOthers = [{
   "thumblink": "https://www.research-collection.ethz.ch/handle/20.500.11850/506422",
   "year": "2019",
   "pages": "",
-  "links": [{ "name": "ETH", "link": "https://www.research-collection.ethz.ch/handle/20.500.11850/506422" }]
+  "links": [{ "name": "ETH", "link": "https://www.research-collection.ethz.ch/handle/20.500.11850/506422" }],
+  "awards": ["ETH Medal for Outstanding Master Thesis"]
 }]

@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented my vision for Spatio-Temporal AI at the Georgia Tech Faculty Pathways Seminar!",
+    "date": "11/2024",
+    "image": "gatech_fps.jpg",
+    "thumb": "gatech_fps.jpg",
+    "caption": "I presented my vision for Spatio-Temporal AI at the Georgia Tech Faculty Pathways Seminar!"
+  },
+  {
     "title": "I presented our work at the Mila Robot Learning Seminar! [<a href='https://www.youtube.com/watch?v=1DYJTbkD29I'/>Recording</a>]",
     "date": "10/2024",
     "image": "mila_t.jpg",

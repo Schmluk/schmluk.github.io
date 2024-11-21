@@ -6,6 +6,16 @@ const journalVenues = {
 
 const pubJournals = [
   {
+    "authors": ["F. Rockenbauer", "J. Lim", "M. Müller", "R. Siegwart", "L. Schmid"],
+    "title": "Traversing Mars: Cooperative Informative Path Planning to Efficiently Navigate Unknown Scenes",
+    "venue": journalVenues["RAL"],
+    "thumbimage": "MarsIPP.jpg",
+    "thumblink": "https://github.com/ethz-asl/scouting-ipp",
+    "year": "2024",
+    "pages": "(accepted)",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}]
+  },
+  {
     "authors": ["N. Gorlo", "L. Schmid", "L. Carlone"],
     "title": "Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs",
     "venue": journalVenues["RAL"],

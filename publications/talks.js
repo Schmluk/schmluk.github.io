@@ -1,5 +1,21 @@
 const pubTalks = [
   {
+    "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
+    "venue": "Faculty Pathways Seminar",
+    "location": "Georgia Institute of Technology, Atlanta, GA, USA",
+    "month": 11,
+    "year": 2024,
+    "type": "Faculty Pathways Seminar"
+  },
+  {
+    "title": "Learning for Active Perception and Active Perception for Robot Learning",
+    "venue": "GRASP Laboratory",
+    "location": "University of Pennsylvania, Philadelphia, PA, USA",
+    "month": 11,
+    "year": 2024,
+    "type": "Invited Talk"
+  },
+  {
     "title": "Active Perception and Long-term Understanding of Dynamic Human-Centric Scenes",
     "venue": "Robot Learning Seminar",
     "location": "Mila - Quebec AI Institute, Montreal, Canada",
