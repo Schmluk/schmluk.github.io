@@ -11,9 +11,9 @@ const pubJournals = [
     "venue": journalVenues["RAL"],
     "thumbimage": "MarsIPP.jpg",
     "thumblink": "https://github.com/ethz-asl/scouting-ipp",
-    "year": "2024",
-    "pages": "(accepted)",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}]
+    "year": "2025",
+    "pages": "vol. 10, no. 2, pp. 1776 - 1783",
+    "links": [{ "name": "Journal", "link": "https://ieeexplore.ieee.org/document/10783051" },{ "name": "ArXiv", "link": "https://arxiv.org/abs/2406.05313" }, {"name": "Code", "link": "https://github.com/ethz-asl/scouting-ipp"}]
   },
   {
     "authors": ["N. Gorlo", "L. Schmid", "L. Carlone"],
