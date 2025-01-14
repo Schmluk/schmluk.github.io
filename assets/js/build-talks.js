@@ -15,15 +15,17 @@ function addTalkItem(publication, list) {
     text += "&nbsp"
   }
 
-  // title.
-  if (publication.link != undefined) {
-    text += " <a href='" + publication.link + "'><strong>" + publication.title + "</strong></a>";
-  } else {
-    text += " <strong>" + publication.title + "</strong>";
-  }
+  // Title.
+  text += " <strong>" + publication.title + "</strong>";
 
   // Venue.
   text += ", presented at <i>" + publication.venue + "</i>, " + publication.location + ".";
+
+  // Link.
+  if (publication.link != undefined) {
+    text += " [<a href='" + publication.link + "'>Recording</a>]";
+  } 
+
 
   // Add the data to the table.
   var entry = document.createElement('li');

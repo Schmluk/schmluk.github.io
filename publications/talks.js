@@ -1,6 +1,22 @@
 const pubTalks = [
   {
     "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
+    "venue": "Bosc Center for Artificial Intelligence",
+    "location": "Stuttgart, Germany",
+    "month": 2,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
+    "venue": "University of Maastricht",
+    "location": "Maastricht, Netherlands",
+    "month": 2,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
     "venue": "Faculty Pathways Seminar",
     "location": "Georgia Institute of Technology, Atlanta, GA, USA",
     "month": 11,
