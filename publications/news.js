@@ -2,6 +2,14 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    
+    "title": "I was awarded the MIT Kaufman Teaching Certificate!",
+    "date": "1/2025",
+    "image": "ktcp.jpg",
+    "thumb": "ktcp.jpg",
+    "caption": "I was awarded the MIT Kaufman Teaching Certificate!"
+  },
+  {
     "title": "I presented my vision for Spatio-Temporal AI at the Georgia Tech Faculty Pathways Seminar!",
     "date": "11/2024",
     "image": "gatech_fps.jpg",
