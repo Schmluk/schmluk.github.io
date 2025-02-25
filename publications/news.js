@@ -2,7 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    
+    "title": "I presented my research on Spatio-Temporal AI at the Max Planck Institute for Informatics!",
+    "date": "2/2025",
+    "image": "mpi.png",
+    "thumb": "mpi.png",
+    "caption": "I presented my research on Spatio-Temporal AI at the Max Planck Institute for Informatics!"
+  },
+  {
+    "title": "I gave an invited talk at the BOSCH Robotics Seminar!",
+    "date": "2/2025",
+    "image": "bosch.png",
+    "thumb": "bosch.png",
+    "caption": "I gave an invited talk at the BOSCH Robotics Seminar!"
+  },
+  {
+    "title": "I presented my research on Spatio-Temporal AI at Maastricht University!",
+    "date": "2/2025",
+    "image": "maastricht.png",
+    "thumb": "maastricht.png",
+    "caption": "I presented my research on Spatio-Temporal AI at Maastricht University!"
+  },
+  {
     "title": "I was awarded the MIT Kaufman Teaching Certificate!",
     "date": "1/2025",
     "image": "ktcp.jpg",

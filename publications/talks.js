@@ -1,14 +1,22 @@
 const pubTalks = [
   {
-    "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
-    "venue": "Bosc Center for Artificial Intelligence",
-    "location": "Stuttgart, Germany",
+    "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
+    "venue": "Max Planck Institute for Informatics",
+    "location": "Saarbrücken, Germany",
     "month": 2,
     "year": 2025,
     "type": "Seminar"
   },
   {
-    "title": "Active Long-term Understanding of Dynamic Human-centric Scenes",
+    "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
+    "venue": "Robotics Seminar",
+    "location": "Bosch Center for Artificial Intelligence, Renningen, Germany",
+    "month": 2,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
     "venue": "University of Maastricht",
     "location": "Maastricht, Netherlands",
     "month": 2,
