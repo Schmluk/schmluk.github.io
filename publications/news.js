@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented my research on Spatio-Temporal AI at Boston University!",
+    "date": "3/2025",
+    "image": "bu.jpg",
+    "thumb": "bu.jpg",
+    "caption": "I presented my research on Spatio-Temporal AI at Boston University!"
+  },
+  {
     "title": "I presented my research on Spatio-Temporal AI at the Max Planck Institute for Informatics!",
     "date": "2/2025",
     "image": "mpi.png",
