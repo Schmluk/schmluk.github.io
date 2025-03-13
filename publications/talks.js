@@ -1,6 +1,14 @@
 const pubTalks = [
   {
     "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
+    "venue": "ECE/ME Seminar 2025 Speaker Series",
+    "location": "Boston University, Boston, MA, USA",
+    "month": 3,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
     "venue": "Max Planck Institute for Informatics",
     "location": "Saarbrücken, Germany",
     "month": 2,
