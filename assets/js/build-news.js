@@ -6,7 +6,7 @@ var newsbutton = document.getElementById("newsbutton");
 var numNewsArticles = 0;
 
 function newsButtonClick() {
-  numNewsArticles += 6;
+  numNewsArticles += 9;
   var text = "";
   for (let i = 0; i < Math.min(numNewsArticles, pubNews.length); i++) {
     let newsitem = pubNews[i];

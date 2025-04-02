@@ -2,6 +2,20 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!",
+    "date": "3/2025",
+    "image": "gt_logo.jpg",
+    "thumb": "gt_logo.jpg",
+    "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
+  },
+  {
+    "title": "Our <a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a> on Unifying Visual SLAM got accepted! Join us at <a href='https://roboticsconference.org/'/>RSS 2025</a> in LA! [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a>] [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>CfP</a>]",
+    "date": "3/2025",
+    "image": "rss25_ws.jpg",
+    "thumb": "rss25_ws.jpg",
+    "caption": "Our <a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a> on Unifying Visual SLAM got accepted! Join us at <a href='https://roboticsconference.org/'/>RSS 2025</a> in LA! [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a>] [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>CfP</a>]"
+  },
+  {
     "title": "I presented my research on Spatio-Temporal AI at Boston University!",
     "date": "3/2025",
     "image": "bu.jpg",
