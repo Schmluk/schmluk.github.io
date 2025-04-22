@@ -2,6 +2,13 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I've been named an RSS: Pioneer! [<a href='https://sites.google.com/view/rsspioneers2025/'/>RSS Pioneers</a>]",
+    "date": "4/2025",
+    "image": "rss_pioneers.jpg",
+    "thumb": "rss_pioneers.jpg",
+    "caption": "I've been named an RSS: Pioneer! [<a href='https://sites.google.com/view/rsspioneers2025/'/>RSS Pioneers</a>]"
+  },
+  {
     "title": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!",
     "date": "3/2025",
     "image": "gt_logo.jpg",
