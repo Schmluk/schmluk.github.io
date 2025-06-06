@@ -26,6 +26,10 @@
   gtag('config', 'G-RKGKPT9DC6');
 </script>
 
+<!-- Scripts -->
+<script src="publications/talks.js"></script>
+<script src="assets/js/build-talks.js"></script>
+
 <body class="is-preload">
   <header id="header"> </header>
   <nav id="nav"></nav>
@@ -54,11 +58,12 @@
       <header class="major">
         <h1>Biography</h1>
       </header>
-      <p>Lukas Schmid is currently a postdoctoral research fellow at the <a href="https://web.mit.edu/sparklab/">MIT
+      <p>Lukas Schmid is currently a research scientist at the <a href="https://web.mit.edu/sparklab/">MIT
           SPARK</a> Lab lead
         by <a href="https://lucacarlone.mit.edu/">Prof. Luca
           Carlone</a> at the <a href="https://www.mit.edu/">Massachusetts Institute of Technology (MIT)</a>.
-        Before that, he briefly was a postdoctoral researcher at the <a href="https://asl.ethz.ch/">Autonomous
+        Before that, he was a postdoctoral fellow at MIT SPARK and briefly a postdoctoral researcher at the <a
+          href="https://asl.ethz.ch/">Autonomous
           Systems Lab (ASL)</a> lead by
         <a href="https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html">Prof.
           Roland Siegwart</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>.
@@ -147,10 +152,14 @@
     <section id="talks">
       <h1>Invited Talks</h1>
       <p>If you would like me to give a talk please reach out
-        to <a href="mailto:lschmid@mit.edu">lschmid@mit.edu</a>! Selected previous talks:
+        to <a href="mailto:lschmid@mit.edu">lschmid@mit.edu</a>! Recent talks:
       </p>
 
       <ul style="list-style-type: none; counter-reset: elementcounter; padding-left: 0;" id="listTalks"></ul>
+      <ul class="actions" id="test">
+        <li><span id="talksbutton" class="button" onclick="talkButtonClick(pubTalks, 'listTalks');">All previous
+            talks</span></li>
+      </ul>
     </section>
 
     <!-- Personal Interests -->
@@ -195,8 +204,7 @@
   <script src="assets/js/util.js"></script>
 
   <!-- Import the json of talks and build the list. -->
-  <script src="publications/talks.js"></script>
-  <script src="assets/js/build-talks.js"></script>
+
   <script type="text/javascript">
     buildTalks(pubTalks, "listTalks");
   </script>

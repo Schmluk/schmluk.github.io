@@ -1,7 +1,17 @@
+var num_talks = 10;
+
+function talkButtonClick(publications, listname) {
+  if (num_talks > 10) {
+    return;
+  }
+  num_talks = publications.length;
+  buildTalks(publications, listname);
+}
+
 // Tools to build the talks tables. Called in biography.html.
 function buildTalks(publications, listname) {
   var list = document.getElementById(listname);
-  for (let i = 0; i < publications.length; i++) {
+  for (let i = 0; i < num_talks; i++) {
     addTalkItem(publications[i], list);
   }
 }
@@ -24,7 +34,7 @@ function addTalkItem(publication, list) {
   // Link.
   if (publication.link != undefined) {
     text += " [<a href='" + publication.link + "'>Recording</a>]";
-  } 
+  }
 
 
   // Add the data to the table.

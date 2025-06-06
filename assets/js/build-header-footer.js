@@ -6,8 +6,8 @@ function buildHeader(id) {
       <h1>
         <ul class="no-bullets" style="padding-bottom: 2em;">
           <li><strong>Lukas Schmid</strong>, PhD</li>
-          <li>Postdoctoral Fellow </li>
-          <li>@<a href="https://web.mit.edu/sparklab/">MIT-SPARK Lab</a></li>
+          <li>Research Scientist</li>
+          <li>@<a href="https://web.mit.edu/sparklab/">MIT SPARK Lab</a></li>
         </ul>
       </h1>
     </div>`;
@@ -23,7 +23,7 @@ function buildFooter(id) {
         <li><a href="https://www.linkedin.com/in/lukas-schmid-599872217"
             class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
         <li><a href="https://scholar.google.com/citations?user=r79fGI0AAAAJ"
-            class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
+            class="icon solid fa-graduation-cap"><span class="label">Google Scholar</span></a></li>
       </ul>
       <ul class="icons">
         <li><a href="https://orcid.org/0000-0002-3961-8145" class="icon brands fa-orcid"><span

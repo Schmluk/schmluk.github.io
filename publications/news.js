@@ -2,6 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>]",
+    "date": "6/2025",
+    "image": "cvpr25_ws.jpg",
+    "thumb": "cvpr25_ws.jpg",
+    "caption": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>]"
+  },
+  {
+    "title": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]",
+    "date": "6/2025",
+    "image": "game.jpg",
+    "thumb": "game.jpg",
+    "caption": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]"
+  },
+  {
+    "title": "I presented my research on Spatio-Temporal AI at the University of Technology Nuremberg!",
+    "date": "6/2025",
+    "image": "utn.jpg",
+    "thumb": "utn.jpg",
+    "caption": "I presented my research on Spatio-Temporal AI at the University of Technology Nuremberg!"
+  },
+  {
     "title": "Our <a href='https://activep-ws.github.io/'/>Workshop</a> on Active Perception got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://activep-ws.github.io/'/>Workshop</a>] [<a href='https://activep-ws.github.io/#challenge'/>Challenge</a>]",
     "date": "5/2025",
     "image": "iros25_ap_ws.jpg",
@@ -254,11 +275,11 @@ const pubNews = [
     "caption": "Our paper proposing <a href='https://ieeexplore.ieee.org/document/10161212' />3D Variable Scene Graphs</a> for Long-term Semantic Scene Change Prediction is accepted to <a href='https://www.icra2023.org/' />ICRA'23</a>! [<a href='https://ieeexplore.ieee.org/document/10161212'/>Paper</a>] [<a href='https://github.com/ethz-asl/3d_vsg'/>Code</a>]"
   },
   {
-    "title": "I joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> as a Postdoctoral Research Fellow!",
+    "title": "I joined the <a href='https://web.mit.edu/sparklab/' />MIT SPARK Lab</a> as a Postdoctoral Fellow!",
     "date": "2/2023",
     "image": "mit.jpg",
     "thumb": "mit_t.jpg",
-    "caption": "I'm excited to share that have joined the <a href='https://web.mit.edu/sparklab/' />MIT-SPARK Lab</a> as a postdoctoral fellow working with <a href='https://lucacarlone.mit.edu/'>Prof. Luca Carlone</a>!"
+    "caption": "I'm excited to share that have joined the <a href='https://web.mit.edu/sparklab/' />MIT SPARK Lab</a> as a postdoctoral fellow working with <a href='https://lucacarlone.mit.edu/'>Prof. Luca Carlone</a>!"
   },
   {
     "title": "I have been awarded a <a href='https://www.snf.ch/en'/>Swiss National Science Foundation</a> <a href='https://data.snf.ch/grants/grant/214489'/>Career Grant</a>!",

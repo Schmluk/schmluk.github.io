@@ -1,5 +1,21 @@
 const pubTalks = [
   {
+    "title": "Hierarchical Methods for Open-set, Task-driven, and Dynamic Scene Understanding",
+    "venue": "Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D) at CVPR 2025",
+    "location": "Nashville, TN, USA",
+    "month": 6,
+    "year": 2025,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
+    "venue": "University of Technology Nuremberg",
+    "location": "Nuremberg, Germany",
+    "month": 6,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
     "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
     "venue": "ECE/ME Seminar 2025 Speaker Series",
     "location": "Boston University, Boston, MA, USA",
