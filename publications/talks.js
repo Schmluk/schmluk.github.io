@@ -1,7 +1,7 @@
 const pubTalks = [
   {
     "title": "Hierarchical Methods for Open-set, Task-driven, and Dynamic Scene Understanding",
-    "venue": "Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D) at CVPR 2025",
+    "venue": "CVPR Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D) 2025",
     "location": "Nashville, TN, USA",
     "month": 6,
     "year": 2025,

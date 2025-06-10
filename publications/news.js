@@ -9,11 +9,11 @@ const pubNews = [
     "caption": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>]"
   },
   {
-    "title": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]",
+    "title": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://arxiv.org/abs/2506.06909'/>Paper</a>] [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]",
     "date": "6/2025",
     "image": "game.jpg",
     "thumb": "game.jpg",
-    "caption": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]"
+    "caption": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://arxiv.org/abs/2506.06909'/>Paper</a>] [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]"
   },
   {
     "title": "I presented my research on Spatio-Temporal AI at the University of Technology Nuremberg!",
