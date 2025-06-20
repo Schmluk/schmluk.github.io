@@ -2,11 +2,11 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    "title": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>]",
+    "title": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>] [<a href='https://www.youtube.com/watch?v=N3h2gQU-efs&list=PLlz1fTGqTxOLy13HBTNLQj5a3jy3Qtwbo'>Recording</a>]",
     "date": "6/2025",
     "image": "cvpr25_ws.jpg",
     "thumb": "cvpr25_ws.jpg",
-    "caption": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>]"
+    "caption": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>] [<a href='https://www.youtube.com/watch?v=N3h2gQU-efs&list=PLlz1fTGqTxOLy13HBTNLQj5a3jy3Qtwbo'>Recording</a>]"
   },
   {
     "title": "We present <a href='https://vladimiryugay.github.io/game/'/>GaME</a>, a first Gaussian Splatting method for evolving scenes! [<a href='https://arxiv.org/abs/2506.06909'/>Paper</a>] [<a href='https://vladimiryugay.github.io/game/'/>Project</a>]",

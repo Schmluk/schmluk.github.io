@@ -6,6 +6,7 @@ const pubTalks = [
     "month": 6,
     "year": 2025,
     "type": "Workshop Keynote"
+    "link": "https://www.youtube.com/watch?v=N3h2gQU-efs&list=PLlz1fTGqTxOLy13HBTNLQj5a3jy3Qtwbo"
   },
   {
     "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
