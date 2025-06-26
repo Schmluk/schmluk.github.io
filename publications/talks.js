@@ -5,7 +5,7 @@ const pubTalks = [
     "location": "Nashville, TN, USA",
     "month": 6,
     "year": 2025,
-    "type": "Workshop Keynote"
+    "type": "Workshop Keynote",
     "link": "https://www.youtube.com/watch?v=N3h2gQU-efs&list=PLlz1fTGqTxOLy13HBTNLQj5a3jy3Qtwbo"
   },
   {

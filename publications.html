@@ -46,6 +46,7 @@
         <li><a href="#journals" class="button fit" target="_self">Journals</a></li>
         <li><a href="#conferences" class="button fit" target="_self">Conferences</a></li>
         <li><a href="#workshops" class="button fit" target="_self">Workshops</a></li>
+        <li><a href="#books" class="button fit" target="_self">Books and Chapters</a></li>
         <li><a href="#preprints" class="button fit" target="_self">Preprints</a></li>
         <li><a href="#theses" class="button fit" target="_self">Theses</a></li>
       </ul>
@@ -75,6 +76,14 @@
       </table>
     </section>
 
+    <section id="books">
+      <h1>Books and Chapters</h1>
+      <table id="tableBooks">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
     <section id="preprints">
       <h1>Preprints</h1>
       <table id="tablePreprints">
@@ -85,7 +94,7 @@
 
     <section id="theses">
       <h1>Theses</h1>
-      <table id="tableOthers">
+      <table id="tableTheses">
         <tbody>
         </tbody>
       </table>
@@ -114,8 +123,9 @@
     buildTable(pubJournals, "tableJournals");
     buildTable(pubConferences, "tableConferences");
     buildTable(pubWorkshops, "tableWorkshops");
+    buildTable(pubBooks, "tableBooks");
     buildTable(pubPreprints, "tablePreprints");
-    buildTable(pubOthers, "tableOthers");
+    buildTable(pubTheses, "tableTheses");
   </script>
   <script src="assets/js/build-header-footer.js"></script>
   <script src="assets/js/main.js"></script>
