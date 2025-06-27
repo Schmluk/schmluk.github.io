@@ -30,11 +30,11 @@ const pubNews = [
     "caption": "Our <a href='https://activep-ws.github.io/'/>Workshop</a> on Active Perception got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://activep-ws.github.io/'/>Workshop</a>] [<a href='https://activep-ws.github.io/#challenge'/>Challenge</a>]"
   },
   {
-    "title": "Our <a href='https://sites.google.com/view/open-world-nav/home'/>Workshop</a> on Open World Navigation got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://sites.google.com/view/open-world-nav/home'/>Workshop</a>] [<a href='https://sites.google.com/view/open-world-nav/home#h.uun2fb8z5a6s'/>CfP</a>]",
+    "title": "Our <a href='https://adacompnus.github.io/open-world-navigation-25/'/>Workshop</a> on Open World Navigation got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://adacompnus.github.io/open-world-navigation-25/'/>Workshop</a>] [<a href='https://adacompnus.github.io/open-world-navigation-25/#h.uun2fb8z5a6s'/>CfP</a>]",
     "date": "5/2025",
     "image": "iros25_own_ws.jpg",
     "thumb": "iros25_own_ws.jpg",
-    "caption": "Our <a href='https://sites.google.com/view/open-world-nav/home'/>Workshop</a> on Open World Navigation got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://sites.google.com/view/open-world-nav/home'/>Workshop</a>] [<a href='https://sites.google.com/view/open-world-nav/home#h.uun2fb8z5a6s'/>CfP</a>]"
+    "caption": "Our <a href='https://adacompnus.github.io/open-world-navigation-25/'/>Workshop</a> on Open World Navigation got accepted! Join us at <a href='https://www.iros25.org/'/>IROS 2025</a> in Hangzhou! [<a href='https://adacompnus.github.io/open-world-navigation-25/'/>Workshop</a>] [<a href='https://adacompnus.github.io/open-world-navigation-25/#h.uun2fb8z5a6s'/>CfP</a>]"
   },
   {
     "title": "I've been selected as an RSS: Pioneer! [<a href='https://sites.google.com/view/rsspioneers2025/participants'/>RSS Pioneers</a>]",
