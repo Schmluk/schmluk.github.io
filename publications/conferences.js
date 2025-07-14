@@ -1,4 +1,3 @@
-
 const conferenceVenues = {
   "RSS": "Robotics: Science and Systems (RSS)",
   "ICRA": "IEEE International Conference on Robotics and Automation (ICRA)",
@@ -14,7 +13,7 @@ const pubConferences = [
     "thumblink": "https://github.com/MIT-SPARK/Khronos",
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
-    "links": [{"name": "RSS", "link": "https://www.roboticsproceedings.org/rss20/p081.html"}, { "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/Khronos" }, { "name": "Media", "link": "https://aeroastro.mit.edu/news-impact/khronos-4d-spatio-temporal-perception-for-autonomous-robots/" }],
+    "links": [{ "name": "RSS", "link": "https://www.roboticsproceedings.org/rss20/p081.html" }, { "name": "ArXiv", "link": "https://arxiv.org/abs/2402.13817" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=YsH6YIL5_kc" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/Khronos" }, { "name": "Media", "link": "https://aeroastro.mit.edu/news-impact/khronos-4d-spatio-temporal-perception-for-autonomous-robots/" }],
     "awards": ["Outstanding Systems Paper Award"]
   },
   {

@@ -1,5 +1,22 @@
 const pubTalks = [
   {
+    "title": "Understanding the Past, Present, and Future: Spatio-Temporal AI for Active Robot Autonomy",
+    "venue": "IROS Workshop on AIR4D: Advancements for Intelligent Robotics in 4D Scenes: Localization, Reconstruction, Rendering, and Generation, 2025",
+    "location": "Hangzhou, CN",
+    "month": 10,
+    "year": 2025,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Understanding the Past, Present, and Future: Spatio-Temporal AI for Active Robot Autonomy",
+    "venue": "Gradient Spaces Lab",
+    "location": "Stanford University, Stanford, CA, USA",
+    "month": 7,
+    "year": 2025,
+    "type": "Invited Talk",
+    "virtual": true
+  },
+  {
     "title": "Hierarchical Methods for Open-set, Task-driven, and Dynamic Scene Understanding",
     "venue": "CVPR Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D) 2025",
     "location": "Nashville, TN, USA",

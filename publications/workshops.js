@@ -1,4 +1,3 @@
-
 const pubWorkshops = [
   {
     "authors": ["L. Schmid"],
@@ -17,7 +16,7 @@ const pubWorkshops = [
     "thumbimage": "KhronosICRA40.jpg",
     "thumblink": "https://github.com/MIT-SPARK/Khronos",
     "year": "2024",
-    "pages": "Rotterdam, The Netherlands, September",
+    "pages": "Rotterdam, The Netherlands, September"
   }, {
     "authors": ["M. Müller", "J. Lim", "L. Schmid", "H. Blum", "W. Stürzl", "A. Gawel", "R. Siegwart", "R. Triebel"],
     "title": "Interactive OAISYS: A photorealistic terrain simulation for robotics research",
