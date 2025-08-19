@@ -11,6 +11,7 @@ function talkButtonClick(publications, listname) {
 // Tools to build the talks tables. Called in biography.html.
 function buildTalks(publications, listname) {
   var list = document.getElementById(listname);
+  list.innerHTML = "";
   for (let i = 0; i < num_talks; i++) {
     addTalkItem(publications[i], list);
   }
