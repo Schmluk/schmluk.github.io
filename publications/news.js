@@ -2,6 +2,41 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "I presented my research on Embodied Spatio-Temporal AI at the Shanghai Jiao Tong University!",
+    "date": "10/2025",
+    "image": "sjtu.jpg",
+    "thumb": "sjtu.jpg",
+    "caption": "I presented my research on Embodied Spatio-Temporal AI at the Shanghai Jiao Tong University!"
+  },
+  {
+    "title": "I was named a New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!",
+    "date": "10/2025",
+    "image": "nokov_ngs_iros25.jpg",
+    "thumb": "nokov_ngs_iros25.jpg",
+    "caption": "I was named a New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!"
+  },
+  {
+    "title": "Excited to give a workshop keynote at <a href='https://4drobotics-iros2025.github.io/'/>AIR4D</a> at <a href='https://www.iros25.org/'/>IROS</a>! [<a href='https://4drobotics-iros2025.github.io/'/>Workshop</a>]",
+    "date": "10/2025",
+    "image": "air4d_iros25.jpg",
+    "thumb": "air4d_iros25.jpg",
+    "caption": "Excited to give a workshop keynote at <a href='https://4drobotics-iros2025.github.io/'/>AIR4D</a> at <a href='https://www.iros25.org/'/>IROS</a>! [<a href='https://4drobotics-iros2025.github.io/'/>Workshop</a>]"
+  },
+  {
+    "title": "Our <a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>Workshop</a> on VLM in the Real World got accepted! Join us at <a href='https://neurips.cc/'/>NeurIPS 2025</a> in Mexico City! [<a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>Workshop</a>] [<a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>CfP</a>]",
+    "date": "10/2025",
+    "image": "VLM4CRWD.jpg",
+    "thumb": "VLM4CRWD.jpg",
+    "caption": "Our <a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>Workshop</a> on VLM in the Real World got accepted! Join us at <a href='https://neurips.cc/'/>NeurIPS 2025</a> in Mexico City! [<a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>Workshop</a>] [<a href='https://mozhgan91.github.io/vlm4rwd-neurips25-ws/'/>CfP</a>]"
+  },
+  {
+    "title": "I'm an Associate Editor for <a href='https://2026.ieee-icra.org/'>IEEE ICRA 2026</a> in Vienna!",
+    "date": "9/2024",
+    "image": "icra_ae_26.jpg",
+    "thumb": "icra_ae_26.jpg",
+    "caption": "I'm an Associate Editor for' <a href='https://2026.ieee-icra.org/'>IEEE ICRA 2026</a> in Vienna!"
+  },
+  {
     "title": "Excited to give a workshop keynote at <a href='https://opensun3d.github.io/'/>OpenSun3D</a> at <a href='https://cvpr.thecvf.com/Conferences/2025'/>CVPR</a>! [<a href='https://opensun3d.github.io/'/>Workshop</a>] [<a href='https://www.youtube.com/watch?v=N3h2gQU-efs&list=PLlz1fTGqTxOLy13HBTNLQj5a3jy3Qtwbo'>Recording</a>]",
     "date": "6/2025",
     "image": "cvpr25_ws.jpg",

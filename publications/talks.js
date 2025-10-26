@@ -1,7 +1,15 @@
 const pubTalks = [
   {
+    "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
+    "venue": "Young Investigators Symposium on Frontiers in Innovative Technologies",
+    "location": "Global College, Shanghai Jiao Tong University, Shanghai, CN",
+    "month": 10,
+    "year": 2025,
+    "type": "Invited Talk"
+  },
+  {
     "title": "Understanding the Past, Present, and Future: Spatio-Temporal AI for Active Robot Autonomy",
-    "venue": "IROS Workshop on AIR4D: Advancements for Intelligent Robotics in 4D Scenes: Localization, Reconstruction, Rendering, and Generation, 2025",
+    "venue": "IROS Workshop on Advancements for Intelligent Robotics in 4D Scenes: Localization, Reconstruction, Rendering, and Generation (AIR4D)",
     "location": "Hangzhou, CN",
     "month": 10,
     "year": 2025,
@@ -18,7 +26,7 @@ const pubTalks = [
   },
   {
     "title": "Hierarchical Methods for Open-set, Task-driven, and Dynamic Scene Understanding",
-    "venue": "CVPR Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D) 2025",
+    "venue": "CVPR Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSun3D)",
     "location": "Nashville, TN, USA",
     "month": 6,
     "year": 2025,

@@ -5,7 +5,7 @@ function buildHeader(id) {
       <a href="index.html" class="image avatar" target="_self"><img src="images/avatar.png" alt="" /></a>
       <h1>
         <ul class="no-bullets" style="padding-bottom: 2em;">
-          <li><strong>Lukas Schmid</strong>, PhD</li>
+          <li><strong>Lukas Schmid</strong></li>
           <li>Research Scientist</li>
           <li>@<a href="https://web.mit.edu/sparklab/">MIT SPARK Lab</a></li>
         </ul>
