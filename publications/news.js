@@ -2,6 +2,27 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
+    "title": "Excited to be a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]",
+    "date": "12/2025",
+    "image": "swissnex_panel_25.jpg",
+    "thumb": "swissnex_panel_25.jpg",
+    "caption": "Excited to be a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]"
+  },
+  {
+    "title": "We present DAAAM: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'/>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'/>Project</a>]",
+    "date": "11/2025",
+    "image": "daaam.jpg",
+    "thumb": "daaam.jpg",
+    "caption": "We present DAAAM: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'/>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'/>Project</a>]"
+  },
+  {
+    "title": "Honored to serve as Area Chair for <a href='https://roboticsconference.org/'>Robotics: Science and Systems (RSS) 2026</a>!",
+    "date": "11/2025",
+    "image": "rss_ac_26.jpg",
+    "thumb": "rss_ac_26.jpg",
+    "caption": "Honored to serve as Area Chair for <a href='https://roboticsconference.org/'>Robotics: Science and Systems (RSS) 2026</a>!"
+  },
+  {
     "title": "I presented my research on Embodied Spatio-Temporal AI at the Shanghai Jiao Tong University!",
     "date": "10/2025",
     "image": "sjtu.jpg",
@@ -9,11 +30,11 @@ const pubNews = [
     "caption": "I presented my research on Embodied Spatio-Temporal AI at the Shanghai Jiao Tong University!"
   },
   {
-    "title": "I was named a New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!",
+    "title": "I'm a NOKOV New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!",
     "date": "10/2025",
     "image": "nokov_ngs_iros25.jpg",
     "thumb": "nokov_ngs_iros25.jpg",
-    "caption": "I was named a New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!"
+    "caption": "I'm a NOKOV New Generation Star at <a href='https://www.iros25.org/'/>IROS</a>!"
   },
   {
     "title": "Excited to give a workshop keynote at <a href='https://4drobotics-iros2025.github.io/'/>AIR4D</a> at <a href='https://www.iros25.org/'/>IROS</a>! [<a href='https://4drobotics-iros2025.github.io/'/>Workshop</a>]",

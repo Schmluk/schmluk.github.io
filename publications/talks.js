@@ -1,5 +1,30 @@
 const pubTalks = [
   {
+    "title": "From Lab to Liftoff: Accelerating Intelligent Systems",
+    "venue": "ETH Alumni Boston Spotlight",
+    "location": "Swissnex in Boston and New York, Boston, MA, USA",
+    "month": 12,
+    "year": 2025,
+    "type": "Panel Discussion",
+  },
+  {
+    "title": "Robotic Active Understanding of Long-term Dynamic Scenes",
+    "venue": "AOPE Seminar",
+    "location": "Woods Hole Oceanographic Institution, Woods Hole, MA, USA",
+    "month": 12,
+    "year": 2025,
+    "type": "Seminar",
+  },
+  {
+    "title": "From Dynamic SLAM towards Spatio-Temporal AI",
+    "venue": "Computer Vision for Autonomous Vehicles",
+    "location": "The University of Oklahoma, Norman, OK, USA",
+    "month": 12,
+    "year": 2025,
+    "type": "Guest Lecture",
+    "virtual": true
+  },
+  {
     "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
     "venue": "Young Investigators Symposium on Frontiers in Innovative Technologies",
     "location": "Global College, Shanghai Jiao Tong University, Shanghai, CN",

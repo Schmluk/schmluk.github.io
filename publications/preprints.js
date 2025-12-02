@@ -4,6 +4,16 @@ const preprintVenues = {
 
 const pubPreprints = [
   {
+    "authors": ["N. Gorlo", "L. Schmid", "L. Carlone"],
+    "title": "Describe Anything Anywhere At Any Moment",
+    "venue": preprintVenues["Arxiv"],
+    "thumbimage": "daaam.jpg",
+    "thumblink": "https://nicolasgorlo.com/DAAAM_25/",
+    "year": "2025",
+    "pages": "",
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2512.00565" }, { "name": "Project", "link": "https://nicolasgorlo.com/DAAAM_25/" }]
+  },
+  {
     "authors": ["V. Yugay", "K. Thies", "L. Carlone", "T. Gevers", "M. R. Oswald", "L. Schmid"],
     "title": "Gaussian Mapping for Evolving Scenes",
     "venue": preprintVenues["Arxiv"],
