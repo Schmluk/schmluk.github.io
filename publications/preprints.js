@@ -10,7 +10,7 @@ const pubPreprints = [
     "thumbimage": "daaam.jpg",
     "thumblink": "https://nicolasgorlo.com/DAAAM_25/",
     "year": "2025",
-    "pages": "",
+    "pages": "arXiv:2512.00565",
     "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2512.00565" }, { "name": "Project", "link": "https://nicolasgorlo.com/DAAAM_25/" }]
   },
   {
@@ -20,7 +20,7 @@ const pubPreprints = [
     "thumbimage": "game.jpg",
     "thumblink": "https://vladimiryugay.github.io/game/",
     "year": "2025",
-    "pages": "",
+    "pages": "arXiv:2506.06909",
     "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2506.06909" }, { "name": "Project", "link": "https://vladimiryugay.github.io/game/" }, { "name": "Code", "link": "https://github.com/VladimirYugay/GaME" }]
   },
   {
@@ -30,7 +30,7 @@ const pubPreprints = [
     "thumbimage": "SC_Exp.jpg",
     "thumblink": "https://github.com/ethz-asl/ssc_exploration",
     "year": "2022",
-    "pages": "",
+    "pages": "arXiv:2208.08307",
     "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2208.08307" }, { "name": "Video", "link": "https://www.youtube.com/watch?v=DMXdhCqUqts" }, { "name": "Code", "link": "https://github.com/ethz-asl/ssc_exploration" }]
   }
 ]
