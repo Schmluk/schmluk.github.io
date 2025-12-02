@@ -9,7 +9,7 @@ const pubTalks = [
   },
   {
     "title": "Robotic Active Understanding of Long-term Dynamic Scenes",
-    "venue": "AOPE Seminar",
+    "venue": "Applied Ocean Physics and Engineering (AOPE) Seminar",
     "location": "Woods Hole Oceanographic Institution, Woods Hole, MA, USA",
     "month": 12,
     "year": 2025,
