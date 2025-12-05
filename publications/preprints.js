@@ -8,10 +8,10 @@ const pubPreprints = [
     "title": "Describe Anything Anywhere At Any Moment",
     "venue": preprintVenues["Arxiv"],
     "thumbimage": "daaam.jpg",
-    "thumblink": "https://nicolasgorlo.com/DAAAM_25/",
+    "thumblink": "https://nicolasgorlo.com/DAAAM_25",
     "year": "2025",
     "pages": "arXiv:2512.00565",
-    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2512.00565" }, { "name": "Project", "link": "https://nicolasgorlo.com/DAAAM_25/" }]
+    "links": [{ "name": "ArXiv", "link": "https://arxiv.org/abs/2512.00565" }, { "name": "Project", "link": "https://nicolasgorlo.com/DAAAM_25" }, { "name": "Code", "link": "https://github.com/MIT-SPARK/DAAAM" }]
   },
   {
     "authors": ["V. Yugay", "K. Thies", "L. Carlone", "T. Gevers", "M. R. Oswald", "L. Schmid"],

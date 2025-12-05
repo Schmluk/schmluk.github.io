@@ -9,11 +9,11 @@ const pubNews = [
     "caption": "Excited to be a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]"
   },
   {
-    "title": "We present DAAAM: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'/>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'/>Project</a>]",
+    "title": "We present <a href='https://nicolasgorlo.com/DAAAM_25/'>DAAAM</a>: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'>Project</a>]",
     "date": "11/2025",
     "image": "daaam.jpg",
     "thumb": "daaam.jpg",
-    "caption": "We present DAAAM: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'/>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'/>Project</a>]"
+    "caption": "We present <a href='https://nicolasgorlo.com/DAAAM_25/'>DAAAM</a>: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'>Project</a>]"
   },
   {
     "title": "Honored to serve as Area Chair for <a href='https://roboticsconference.org/'>Robotics: Science and Systems (RSS) 2026</a>!",
