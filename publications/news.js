@@ -2,11 +2,18 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
   {
-    "title": "Excited to be a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]",
+    "title": "I spoke at the <a href='https://www.whoi.edu'>Woods Hole Oceanographic Institute</a> <a href='https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-events/aope-seminars/'>AOPE Seminar</a>!",
+    "date": "12/2025",
+    "image": "whoi_25.jpg",
+    "thumb": "whoi_25.jpg",
+    "caption": "I spoke at the <a href='https://www.whoi.edu'>Woods Hole Oceanographic Institute</a> <a href='https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-events/aope-seminars/'>AOPE Seminar</a>!"
+  },
+  {
+    "title": "I'm a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]",
     "date": "12/2025",
     "image": "swissnex_panel_25.jpg",
     "thumb": "swissnex_panel_25.jpg",
-    "caption": "Excited to be a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]"
+    "caption": "I'm a panelist at <a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>From Lab to Liftoff: Accelerating Intelligent Systems</a> at Swissnex in Boston! [<a href='https://swissnex.org/boston/event/from-lab-to-liftoff-accelerating-intelligent-systems/'>Event</a>]"
   },
   {
     "title": "We present <a href='https://nicolasgorlo.com/DAAAM_25/'>DAAAM</a>: A new state-of-the-art spatio-temporal robot memory! [<a href='https://arxiv.org/abs/2512.00565'>Paper</a>] [<a href='https://nicolasgorlo.com/DAAAM_25/'>Project</a>]",

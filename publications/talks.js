@@ -5,7 +5,7 @@ const pubTalks = [
     "location": "Swissnex in Boston and New York, Boston, MA, USA",
     "month": 12,
     "year": 2025,
-    "type": "Panel Discussion",
+    "type": "Panel Discussion"
   },
   {
     "title": "Robotic Active Understanding of Long-term Dynamic Scenes",
@@ -13,7 +13,7 @@ const pubTalks = [
     "location": "Woods Hole Oceanographic Institution, Woods Hole, MA, USA",
     "month": 12,
     "year": 2025,
-    "type": "Seminar",
+    "type": "Seminar"
   },
   {
     "title": "From Dynamic SLAM towards Spatio-Temporal AI",
