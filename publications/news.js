@@ -2,11 +2,11 @@
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
     {
-    "title": "I've started the '<a href='https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/machine-intelligence/'>Machine Intelligence Group</a> at the <a href='https://www.utn.de/'>University of Technology Nuremberg</a>!",
+    "title": "I've started the <a href='https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/machine-intelligence/'>Machine Intelligence Group</a> at the <a href='https://www.utn.de/'>University of Technology Nuremberg</a>!",
     "date": "4/2026",
     "image": "utn_start.jpg",
     "thumb": "utn_start.jpg",
-    "caption": "I've started the '<a href='https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/machine-intelligence/'>Machine Intelligence Group</a> at the <a href='https://www.utn.de/'>University of Technology Nuremberg</a>!"
+    "caption": "I've started the <a href='https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/machine-intelligence/'>Machine Intelligence Group</a> at the <a href='https://www.utn.de/'>University of Technology Nuremberg</a>!"
   },
   {
     "title": "I spoke at the <a href='https://www.whoi.edu'>Woods Hole Oceanographic Institute</a> <a href='https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/aope-events/aope-seminars/'>AOPE Seminar</a>!",
