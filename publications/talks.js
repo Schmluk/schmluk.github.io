@@ -1,4 +1,20 @@
 const pubTalks = [
+  {
+    "title": "Understand the Scene to Understand Humans: Detecting and Predicting Human Motion and Interaction",
+    "venue": "ICRA 8th Workshop on Long-term Human Motion Prediction",
+    "location": "Vienna, AT",
+    "month": 6,
+    "year": 2026,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Spatio-Temporal Reasoning over Objects and Humans",
+    "venue": "ICRA Workshop on Semantics for Reliable Robot Autonomy: From Environment Understanding and Reasoning to Safe Interaction",
+    "location": "Vienna, AT",
+    "month": 6,
+    "year": 2026,
+    "type": "Workshop Keynote"
+  },
     {
     "title": "Embodied Spatio-Temporal AI for Long-term Robot Autonomy",
     "venue": " CSCE 635 AI Robotics",

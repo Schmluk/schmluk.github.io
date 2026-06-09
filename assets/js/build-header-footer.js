@@ -5,7 +5,7 @@ function buildHeader(id) {
       <a href="index.html" class="image avatar" target="_self"><img src="images/avatar.png" alt="" /></a>
       <h1>
         <ul class="no-bullets" style="padding-bottom: 2em;">
-          <li><strong>Lukas Schmid</strong></li>
+          <li><strong>Lukas Rosenberger Schmid</strong></li>
           <li>Professor @ <a href="https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/machine-intelligence/">UTN</a></li>
         </ul>
       </h1>
@@ -33,7 +33,7 @@ function buildFooter(id) {
               class="label">Email</span></a></li>
       </ul>
       <ul class="copyright">
-        <li>&copy; Lukas Schmid</li>
+        <li>&copy; Lukas Rosenberger Schmid</li>
         <li>Based on Designs by <a href="http://html5up.net">HTML5 UP</a></li>
       </ul>
     </div>`;
