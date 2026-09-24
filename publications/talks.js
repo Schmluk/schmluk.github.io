@@ -1,4 +1,70 @@
 const pubTalks = [
+
+  {
+    "title": "Dynamic Robot Memory for Humanitarian Assistance",
+    "venue": "IROS Workshop on Robotics for Humanitarian Assistance & Disaster Relief",
+    "location": "Pittsburgh, PA, USA",
+    "month": 10,
+    "year": 2026,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Frontiers in Robot Data: Examples from 4D Perception",
+    "venue": "IROS Workshop on Data in Field Robotics: From State Estimation to Navigation",
+    "location": "Pittsburgh, PA, USA",
+    "month": 10,
+    "year": 2026,
+    "type": "Rising Star Keynote"
+  }, {
+    "title": "Vision, Language and Navigation — from Explicit to End-to-End Methods",
+    "venue": "IROS Workshop on Semantic-Aware Mapping and Navigation",
+    "location": "Pittsburgh, PA, USA",
+    "month": 10,
+    "year": 2026,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Embodied Spatio-Temporal AI: Long-term dynamic scene understanding in real-time",
+    "venue": "IROS Workshop on Full-Shift Robot Co-Workers",
+    "location": "Pittsburgh, PA, USA",
+    "month": 10,
+    "year": 2026,
+    "type": "Workshop Keynote"
+  },
+  {
+    "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
+    "venue": "IEEE RAS Robot Learning Seminar Series",
+    "location": "Brisbane, QLD, Australia",
+    "month": 7,
+    "year": 2026,
+    "type": "Seminar"
+  },
+  {
+    "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
+    "venue": "QUT Center for Robotics Seminar Series",
+    "location": "Queensland University of Technology, Brisbane, QLD, Australia",
+    "month": 7,
+    "year": 2026,
+    "type": "Seminar"
+  },
+  {
+    "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
+    "venue": "UQ Robotics Seminar Series",
+    "location": "University of Queensland, Brisbane, QLD, Australia",
+    "month": 7,
+    "year": 2026,
+    "type": "Seminar"
+  },
+  {
+    "title": "Embodied Spatio-Temporal AI for Human-centric Robot Autonomy",
+    "venue": "University of Technology Sydney (UTS)",
+    "location": "Sydney, NSW, Australia",
+    "month": 7,
+    "year": 2026,
+    "type": "Seminar"
+  },
+
+
   {
     "title": "Understand the Scene to Understand Humans: Detecting and Predicting Human Motion and Interaction",
     "venue": "ICRA 8th Workshop on Long-term Human Motion Prediction",
@@ -15,7 +81,7 @@ const pubTalks = [
     "year": 2026,
     "type": "Workshop Keynote"
   },
-    {
+  {
     "title": "Embodied Spatio-Temporal AI for Long-term Robot Autonomy",
     "venue": " CSCE 635 AI Robotics",
     "location": "Texas A&M University, College Station, TX, USA",
